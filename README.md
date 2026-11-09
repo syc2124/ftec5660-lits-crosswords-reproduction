@@ -502,3 +502,19 @@ docs/                    # Documentation
 ## License
 
 Apache License 2.0
+
+## FTEC5660 Crosswords reproduction
+
+This experiment targets the Crosswords Chain row in the [LiTS paper](https://aclanthology.org/2026.acl-demo.5/), Table 3. The upstream revision is 25e94d862cb4514c22d9a80a635e392461769df7. We run the original Chain agent and evaluator using DeepSeek-V4.1-Flash-1017 in non-thinking mode. The provider adaptation is common to both arms.
+
+### Run on Windows with PowerShell 7
+
+1. Install Python 3.11 and uv.
+2. Run `uv venv --python 3.11`, `uv pip sync reproduction-lock.txt`, then `uv pip install --no-deps -e .`.
+3. Set DEEPSEEK_API_KEY in the process or as a Windows user environment variable.
+4. Run `pwsh -NoProfile -File run-crosswords.ps1` from the repo root. For a smoke run, use a clean checkout and pass `-Repeats 1 -Count 1`.
+5. Inspect `crossword_results/r*_steps*/eval_results.json` and the matching `inferencelogger.log` files. Each run uses the upstream scorer and records its checkpoints locally.
+
+The full run uses puzzle indices 1–30 (zero-based) from mini0505.json. Index 0 was reserved for the pilot. The paper identifies 30 puzzles but does not enumerate their IDs. The baseline cap of 10 is a local choice because the paper specifies a depth for search but does not identify the Chain cap. The intervention uses a cap of 5. Both conditions run three times on the same puzzles, alternating condition order. Report API usage as tokens and calls. The upstream dollar estimate is not used for DeepSeek billing.
+
+Experiment outputs are reused only when the evaluator has written a summary. Use a fresh checkout or move the prior run directories before changing Count or rerunning the entire study.

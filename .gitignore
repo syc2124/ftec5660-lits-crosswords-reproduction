@@ -40,3 +40,6 @@ Thumbs.db
 # mypy
 .mypy_cache/
 jobs/
+
+/pilot/
+/pilot_nonthinking/
