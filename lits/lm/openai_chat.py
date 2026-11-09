@@ -128,7 +128,9 @@ class OpenAIChatModel(LanguageModel):
         # Only add for non-OpenAI endpoints (vLLM, etc.) to avoid API errors
         extra_body = None
         is_custom_endpoint = self.client.base_url and "api.openai.com" not in str(self.client.base_url)
-        if is_custom_endpoint and not self.enable_thinking:
+        if self.client.base_url.host == "api.deepseek.com":
+            extra_body = {"thinking": {"type": "disabled"}}
+        elif is_custom_endpoint and not self.enable_thinking:
             extra_body = {"chat_template_kwargs": {"enable_thinking": False}}
 
         tool_options = {}
