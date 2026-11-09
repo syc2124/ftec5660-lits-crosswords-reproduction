@@ -25,10 +25,21 @@ foreach ($repeat in 1..$Repeats) {
         # Stop between runs at a deliberately conservative 10 CNY/M blended estimate.
         if ($tokens.Sum -ge 1000000) { throw 'Conservative token budget threshold reached.' }
 
-        & .venv/Scripts/lits-chain.exe --dataset crosswords --include lits_benchmark.crosswords --dataset-arg data_file=demos/crosswords/data/mini0505.json --policy-model openai/deepseek-flash --cfg "max_steps=$steps" --var offset=1 "limit=$Count" --output-dir $result
-        if ($LASTEXITCODE) { throw "Inference failed for $result." }
+        $offset = 1
+        $completed = $false
+        if (Test-Path "$result/execution.log") {
+            $previous = Get-Content "$result/execution.log" -Raw
+            $completed = $previous -match 'Chain agent complete'
+            $started = [regex]::Matches($previous, 'Processing example (\d+)')
+            if ($started.Count) { $offset = [int]$started[-1].Groups[1].Value }
+        }
+        if (-not $completed) {
+            $remaining = $Count + 1 - $offset
+            if ($remaining -lt 1) { throw "Existing run uses a different puzzle count." }
+            & .venv/Scripts/lits-chain.exe --dataset crosswords --include lits_benchmark.crosswords --dataset-arg data_file=demos/crosswords/data/mini0505.json --policy-model openai/deepseek-flash --cfg "max_steps=$steps" --var "offset=$offset" "limit=$remaining" --output-dir $result
+            if ($LASTEXITCODE) { throw "Inference failed for $result." }
+        }
         & .venv/Scripts/lits-eval-chain.exe --result_dir $result --benchmark crosswords --include lits_benchmark.crosswords
         if ($LASTEXITCODE) { throw "Evaluation failed for $result." }
     }
 }
-
