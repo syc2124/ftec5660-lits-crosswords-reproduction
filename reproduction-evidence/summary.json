@@ -1,0 +1,54 @@
+{
+  "10": {
+    "exact": {
+      "mean": 0.011111111111111112,
+      "sample_variance": 0.00037037037037037035
+    },
+    "clue": {
+      "mean": 0.2111111111111111,
+      "sample_variance": 1.4814814814814759e-05
+    },
+    "calls": {
+      "mean": 313,
+      "sample_variance": 97
+    },
+    "input_tokens": {
+      "mean": 92686.66666666667,
+      "sample_variance": 7755944.333333333
+    },
+    "output_tokens": {
+      "mean": 7348.333333333333,
+      "sample_variance": 1203246.3333333333
+    },
+    "api_seconds": {
+      "mean": 281.75079305966693,
+      "sample_variance": 604.3150144025361
+    }
+  },
+  "5": {
+    "exact": {
+      "mean": 0.0,
+      "sample_variance": 0.0
+    },
+    "clue": {
+      "mean": 0.14222222222222225,
+      "sample_variance": 0.0001148148148148145
+    },
+    "calls": {
+      "mean": 175,
+      "sample_variance": 31
+    },
+    "input_tokens": {
+      "mean": 50948.666666666664,
+      "sample_variance": 2336962.3333333335
+    },
+    "output_tokens": {
+      "mean": 4870.666666666667,
+      "sample_variance": 2431305.3333333335
+    },
+    "api_seconds": {
+      "mean": 160.946972211202,
+      "sample_variance": 195.31357516597413
+    }
+  }
+}

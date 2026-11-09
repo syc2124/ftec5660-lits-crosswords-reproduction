@@ -1,0 +1,2665 @@
+[
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 1,
+    "actions": [
+      "h1. doing",
+      "v1. aware",
+      "h2. wired",
+      "h3. rouse",
+      "h4. rouse",
+      "h5. EXERT",
+      "v2. OIOOX",
+      "v3. EROSE",
+      "v4. NEVER",
+      "v5. GDEET"
+    ],
+    "final_board": "Current Board:\nAOENG\nWIRED\nROOVE\nROSEE\nEXERT\n\nUnfilled:\n\nFilled:\nh2. One who wires: WIRED\nh5. To put into action: EXERT\nv2. A gadget: OIOOX\nv3. Notched or uneven, as if gnawed away (cognate with \"erode\"): EROSE\nv4. Not ever: NEVER\nv5. Drenched; drowned: GDEET\n\nChanged:\nh1. An agendum; something to be done: AOENG\nh3. To stir up; to remove from office: ROOVE\nh4. Ascended; awakened: ROSEE\nv1. Mindful; conscious: AWRRE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 10,
+    "actions": [
+      "v1. buffo",
+      "h1. freej",
+      "h2. urali",
+      "v2. ERROR",
+      "h3. FRIAR",
+      "h4. adopt",
+      "v3. EARTH",
+      "v4. ELAPS",
+      "h5. ORHST",
+      "v5. JIRTT"
+    ],
+    "final_board": "Current Board:\nFEEEJ\nURALI\nFRRAR\nADTPT\nORHST\n\nUnfilled:\n\nFilled:\nh2. An Indian mallow: URALI\nh5. Argal; crude tartar: ORHST\nv3. Existence; a creature: EARTH\nv4. The ruby snapper fish: ELAPS\nv5. Apparel; an egg preparation used to clarify wine: JIRTT\n\nChanged:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: FEEEJ\nh3. A religious brother: FRRAR\nh4. To take; to receive: ADTPT\nv1. A comic actor or operatic clown: FUFAO\nv2. A mistake: ERRDR\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 11,
+    "actions": [
+      "h3. irial",
+      "v1. build",
+      "h2. urali",
+      "v2. ERROR",
+      "v3. KHAKI",
+      "h1. BEBOP",
+      "h4. lokum",
+      "h5. DREAD",
+      "v4. OLAUA",
+      "v5. PILMD"
+    ],
+    "final_board": "Current Board:\nBEBOP\nURHLI\nIRAAL\nLOKUM\nDREAD\n\nUnfilled:\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BEBOP\nh4. Miner's thumb; a small fish: LOKUM\nh5. Prolonged and deep fear: DREAD\nv1. To construct; to erect: BUILD\nv2. A mistake: ERROR\nv4. The ruby snapper fish: OLAUA\nv5. Variegated; glazed: PILMD\n\nChanged:\nh2. An Indian mallow: URHLI\nh3. Relating to the iris: IRAAL\nv3. A fabric; a yellowish gray color: BHAKE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "h2. ogive",
+      "v1. BOCCI",
+      "h3. calif",
+      "h4. CLOVE",
+      "h5. EATER",
+      "v2. IGALA",
+      "v3. PILOT",
+      "v4. EVADE",
+      "v5. DEFER"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCALAF\nCLODE\nEATER\n\nUnfilled:\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nh5. One who eats: EATER\nv2. A Yoruba-speaking people: IGALA\nv3. A guide; a captain: PILOT\nv4. To avoid: EVADE\nv5. To delay; to put off: DEFER\n\nChanged:\nh3. A caliph: CALAF\nh4. A plant related to the burdock: CLODE\nv1. An Italian lawn game played with wooden balls: BOCCE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 13,
+    "actions": [
+      "h2. curar",
+      "v4. ELECT",
+      "v1. buyer",
+      "h1. BIPED",
+      "h3. YAGER",
+      "h4. educe",
+      "v2. IURAD",
+      "h5. INERT",
+      "v3. PRGUE",
+      "v5. dirty"
+    ],
+    "final_board": "Current Board:\nBIPED\nUURLI\nYRGER\nEAUCT\nINERY\n\nUnfilled:\n\nFilled:\nh1. A two-legged creature: BIPED\nv3. A county division: PRGUE\nv5. Soiled; improper: DIRTY\n\nChanged:\nh2. Oorali, a poison used on arrows: UURLI\nh3. A northern bird; a jager, a light infantryman: YRGER\nh4. Something that is drawn forth: EAUCT\nh5. Indolent; restive: INERY\nv1. A purchaser: BUYEI\nv2. A Turkish written decree: IURAN\nv4. To choose; a person chosen or destined to go to Heaven: ELECR\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 14,
+    "actions": [
+      "h1. canis",
+      "h2. amide",
+      "v1. CABAL",
+      "v2. AMATI",
+      "h3. pagod",
+      "h4. ETUDE",
+      "v3. NIGUN",
+      "h5. LINEN",
+      "v4. INODE",
+      "v5. SEDER"
+    ],
+    "final_board": "Current Board:\nCANIS\nAMINE\nPAGOD\nETUDE\nLINER\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh3. A pagoda; an Indian idol: PAGOD\nh4. A piano piece: ETUDE\nv2. A violin: AMATI\nv3. A traditional folk or synagogue melody: NIGUN\nv4. A UNIX file system structure: INODE\nv5. A Passover meal: SEDER\n\nChanged:\nh2. An ammonia compound: AMINE\nh5. A shim; a vessel; a lining: LINER\nv1. A horse: CAPEL\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 15,
+    "actions": [
+      "h1. canis",
+      "h2. turki",
+      "h3. ramie",
+      "h4. prone",
+      "h5. nilgai"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 16,
+    "actions": [
+      "h2. urine",
+      "h1. canis",
+      "v1. CURCH",
+      "v2. ARAWA",
+      "h3. RANEE",
+      "h4. CROWS",
+      "v3. NINON",
+      "v4. INEPT",
+      "h5. HAUTE",
+      "v5. sense"
+    ],
+    "final_board": "Current Board:\nCANIS\nURINE\nRANEN\nCROPS\nHAUTE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Liquid body waste: URINE\nh5. High; high-class; pretentious: HAUTE\nv1. A kerchief: CURCH\nv4. Unfit; clumsy: INEPT\nv5. To perceive; wisdom; reason; feeling: SENSE\n\nChanged:\nh3. An Asian cape: RANEN\nh4. Defecates; a dice game: CROPS\nv2. The Brazilian macaw; an Australian bird: ARARA\nv3. A New Zealand palm: NINOU\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 17,
+    "actions": [
+      "h1. canis",
+      "v1. curse",
+      "h2. urali",
+      "v2. ARNUT",
+      "h3. RONIC",
+      "h4. spool",
+      "h5. yours",
+      "v3. NANOU",
+      "v4. ILIOR",
+      "v5. SICLS"
+    ],
+    "final_board": "Current Board:\nCANIS\nURALI\nRONIC\nSPOOL\nYOURS\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Oorali, a poison used on arrows: URALI\nh3. A phonetic notation: RONIC\nh4. A small wheel or spindle; to transfer to a peripheral device: SPOOL\nh5. Belonging to you: YOURS\nv3. An Australian river: NANOU\nv4. Ancient Troy: ILIOR\nv5. A shekel: SICLS\n\nChanged:\nv1. Poetic \"cursed\"; peevish: CURSY\nv2. An old fashioned term for various medical remedies: AROPO\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 18,
+    "actions": [
+      "h5. salty",
+      "h1. canis",
+      "h3. Revel",
+      "v4. INERT",
+      "v3. NEVER",
+      "v2. arena",
+      "h2. ABREN",
+      "h4. POUND",
+      "v1. CARPS",
+      "v5. SALTY"
+    ],
+    "final_board": "Current Board:\nCANIS\nABREA\nREVEL\nPOUNT\nSARTY\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh3. To feast; to carouse; another name for Reval: REVEL\nv1. Poetic \"cursed\"; peevish: CARPS\nv5. Briny; profane: SALTY\n\nChanged:\nh2. An Indian mallow: ABREA\nh4. A pound sterling: POUNT\nh5. Tart or sour; like a prostitute: SARTY\nv2. A performance ring: ABEOA\nv3. Not ever: NRVUR\nv4. Unmoving; inactive: IEENT\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 19,
+    "actions": [
+      "h4. seder",
+      "h3. mimic",
+      "v1. CAMES",
+      "v2. THEM?"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 2,
+    "actions": [
+      "h1. buddy",
+      "v1. Amish",
+      "v2. MANIA",
+      "h2. major",
+      "h3. input",
+      "h4. siege",
+      "h5. hardy",
+      "v3. DRIVE",
+      "v4. DUGOD",
+      "v5. OUTER"
+    ],
+    "final_board": "Current Board:\nAMDDO\nMARUU\nINIGT\nSIVOE\nHAEDR\n\nUnfilled:\n\nFilled:\nv1. A Mennonite sect, named for Jacob Ammann: AMISH\nv2. A craze: MANIA\nv3. To force; to drive: DRIVE\nv4. To dig out roughly: DUGOD\nv5. On the outside: OUTER\n\nChanged:\nh1. A male friend: AMDDO\nh2. Something big and important: MARUU\nh3. Things that enter; data given to a computer program: INIGT\nh4. To besiege: SIVOE\nh5. More healthy; a coin: HAEDR\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 20,
+    "actions": [
+      "h1. elect",
+      "v1. chess",
+      "h2. HELIX",
+      "h3. EROSE",
+      "h4. SEDAL",
+      "h5. STERL",
+      "v2. EGRET",
+      "v3. ELOPE",
+      "v4. CIDER",
+      "v5. EXERT"
+    ],
+    "final_board": "Current Board:\nCEECE\nHGLIX\nERODE\nSEPER\nSTERT\n\nUnfilled:\n\nFilled:\nv1. A board game; a British river: CHESS\nv2. A wading bird: EGRET\nv3. To run away together to get married: ELOPE\nv4. Cider; sicer: CIDER\nv5. To put into action: EXERT\n\nChanged:\nh1. To choose: CEECE\nh2. A spiral, usually three dimensional: HGLIX\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): ERODE\nh4. A drinker; a sedative: SEPER\nh5. A pound sterling: STERT\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 21,
+    "actions": [
+      "h1. elect",
+      "h2. emdem",
+      "h3. ERECT",
+      "v1. EELER",
+      "h4. ERECT",
+      "h5. drier",
+      "v2. HEART",
+      "v3. emeer",
+      "v4. CECCE",
+      "v5. enter"
+    ],
+    "final_board": "Current Board:\nEHECE\nEEMEN\nLAECT\nERECE\nDTRER\n\nUnfilled:\n\nFilled:\nv2. A heart: HEART\nv3. An Arab prince: EMEER\nv4. A century: CECCE\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: EHECE\nh2. British dialect for \"them\": EEMEN\nh3. To raise up; to build: LAECT\nh4. An inscribed column; sap system: ERECE\nh5. Drier; a language: DTRER\nv1. A board game; a British river: EELED\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 22,
+    "actions": [
+      "h1. elect",
+      "h3. OLENT",
+      "v1. EIGHT",
+      "v2. LILAR",
+      "h2. split",
+      "h4. MANSE",
+      "v5. enter",
+      "h5. alter",
+      "v3. EVENT",
+      "v4. sense"
+    ],
+    "final_board": "Current Board:\nELESE\nSPVEN\nGLENT\nMANSE\nALTER\n\nUnfilled:\n\nFilled:\nh4. The minister's house: MANSE\nh5. To change: ALTER\nv3. An occurrence: EVENT\nv4. To perceive; wisdom; reason; feeling: SENSE\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: ELESE\nh2. Rent; split: SPVEN\nh3. Odorous; fragrant: GLENT\nv1. A quaver: ESGMA\nv2. Pertaining to a hilum: LPLAL\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 23,
+    "actions": [
+      "h1. elect",
+      "h2. noisy",
+      "v1. ENCUE",
+      "h3. older",
+      "h4. uruma",
+      "v2. LARYN",
+      "h5. ERUPT",
+      "v3. ENDUE",
+      "v4. STEMS",
+      "v5. AERIE"
+    ],
+    "final_board": "Current Board:\nELESA\nNANTE\nORDER\nUYUMI\nERESE\n\nUnfilled:\n\nFilled:\nv3. To provide with some quality or gift: ENDUE\nv4. Stalks; stops: STEMS\nv5. An eagle's nest: AERIE\n\nChanged:\nh1. To choose: ELESA\nh2. Boisterous; vociferous: NANTE\nh3. More aged: ORDER\nh4. A Japanese island: UYUMI\nh5. To sneeze: ERESE\nv1. To sing romantically: ENOUE\nv2. The throat; the neck; the windpipe: LARYR\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 24,
+    "actions": [
+      "h1. elect",
+      "h2. split",
+      "v1. ESMOL",
+      "h3. musky",
+      "h4. ought",
+      "h5. dread",
+      "v2. HILAR",
+      "v3. ELAPSE"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 25,
+    "actions": [
+      "v1. crush",
+      "h1. CHOSE",
+      "v2. HELLO",
+      "h2. EAGLE",
+      "h3. ULULA",
+      "h4. SLIDE",
+      "h5. HERO_"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 26,
+    "actions": [
+      "h2. etaer",
+      "v2. hello",
+      "h3. owlet",
+      "h1. elect",
+      "h4. slide",
+      "h5. tonic",
+      "v1. EERIE",
+      "v3. EALIN",
+      "v4. CEDED",
+      "v5. enter"
+    ],
+    "final_board": "Current Board:\nELECE\nEEAEN\nRWLDT\nILIEE\nEONDR\n\nUnfilled:\n\nFilled:\nv1. To subdue; to crumple; a hidden romantic attraction: EERIE\nv3. A Babylonian god: EALIN\nv4. To sift: CEDED\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: ELECE\nh2. A Japanese outcast: EEAEN\nh3. A European owl: RWLDT\nh4. To slide; to skulk: ILIEE\nh5. More healthy; a coin: EONDR\nv2. A greeting: LEWLO\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 27,
+    "actions": [
+      "h2. redox",
+      "h1. elect",
+      "h3. abela",
+      "h4. azure",
+      "h5. heart",
+      "v1. crwth",
+      "v2. EXALT",
+      "v3. edema",
+      "v4. SONAR",
+      "v5. EXTOL"
+    ],
+    "final_board": "Current Board:\nCEESE\nRXDOX\nWAENT\nTLMAO\nHTARL\n\nUnfilled:\n\nFilled:\nv1. A crwth: CRWTH\nv2. To praise; to worship: EXALT\nv3. Excessive fluid accumulation: EDEMA\nv4. An underwater detection system (Sound Navigation Ranging): SONAR\nv5. To praise; to raise higher: EXTOL\n\nChanged:\nh1. To choose: CEESE\nh2. An oxidation/reduction reaction: RXDOX\nh3. An Indian mallow: WAENT\nh4. The blue titmouse: TLMAO\nh5. A center; a body organ: HTARL\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 28,
+    "actions": [
+      "h1. clasp",
+      "h2. snare",
+      "h3. cloak",
+      "h4. abate",
+      "h5. karst",
+      "v1. COVER",
+      "v2. LNLBA",
+      "v3. AVOID",
+      "v4. RANTS",
+      "v5. SALUT"
+    ],
+    "final_board": "Current Board:\nCLARS\nONVAA\nVLONL\nEBITU\nRADST\n\nUnfilled:\n\nFilled:\nv1. A loose outer coat; a cover or pretext: COVER\nv2. An African tree: LNLBA\nv3. To exclude: AVOID\nv4. An interjection expressing exasperation; nonsense: RANTS\nv5. To salute: SALUT\n\nChanged:\nh1. To hold onto: CLARS\nh2. One who snares birds with birdlime; a hanger-on: ONVAA\nh3. Shaded or dyed; a 3 person card game using 40 cards: VLONL\nh4. To wane or decrease: EBITU\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: RADST\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 29,
+    "actions": [
+      "h2. snare",
+      "h1. clasp",
+      "h3. macao",
+      "h4. abash",
+      "h5. karst",
+      "v1. CLOAK",
+      "v2. LNARE",
+      "v3. EXACT",
+      "v4. CRASS",
+      "v5. PEACE"
+    ],
+    "final_board": "Current Board:\nCLECP\nLNXRE\nOAAAA\nARCSC\nKETSE\n\nUnfilled:\n\nFilled:\nv1. A loose outer coat; a cover or pretext: CLOAK\nv2. A semitone: LNARE\nv3. To exclude: EXACT\nv4. An interjection expressing exasperation; nonsense: CRASS\nv5. To salute: PEACE\n\nChanged:\nh1. To hold onto: CLECP\nh2. One who snares birds with birdlime; a hanger-on: LNXRE\nh3. Shaded or dyed; a 3 person card game using 40 cards: OAAAA\nh4. To subdue; to terrify; a Central American timber tree: ARCSC\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KETSE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 3,
+    "actions": [
+      "h1. buddy",
+      "v1. BASIS",
+      "h2. baste",
+      "h3. anion",
+      "v2. ULTRA",
+      "h4. SUGAR",
+      "h5. LONER",
+      "v3. ILIUM",
+      "v4. DRAKE",
+      "v5. OWNER"
+    ],
+    "final_board": "Current Board:\nBUIDO\nBLLRW\nATIAN\nSUUKE\nLOMER\n\nUnfilled:\n\nFilled:\nv3. Ancient Troy: ILIUM\nv4. A water fowl; a pinch to the rear; tailor's iron: DRAKE\nv5. A possesser: OWNER\n\nChanged:\nh1. A male friend: BUIDO\nh2. To baptize: BLLRW\nh3. A negative ion: ATIAN\nh4. A sugar: SUUKE\nh5. A solitary person: LOMER\nv1. Benefit; result: BBASL\nv2. A Zen question and answer method; extreme: ULTUO\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 30,
+    "actions": [
+      "v3. debit",
+      "h1. CREDO",
+      "h2. auger",
+      "v1. croak",
+      "h3. OMBRE",
+      "h4. AWHIP",
+      "v2. RUMBA",
+      "v4. DERIV",
+      "h5. KARST",
+      "v5. OREPT"
+    ],
+    "final_board": "Current Board:\nCREDO\nRUGER\nOMBRE\nABHIP\nKARST\n\nUnfilled:\n\nFilled:\nh1. To hold onto: CREDO\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\nv1. A frog sound; to die: CROAK\nv2. A semitone: RUMBA\nv5. To salute: OREPT\n\nChanged:\nh2. An enlarged tool: RUGER\nh4. To subdue; to terrify; a Central American timber tree: ABHIP\nv3. To exclude: EGBHR\nv4. An interjection expressing exasperation; nonsense: DERIS\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 4,
+    "actions": [
+      "h1. drain",
+      "v1. ARISE",
+      "v2. RESIT",
+      "h2. retie",
+      "v3. atter",
+      "h3. ISTRIA"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 5,
+    "actions": [
+      "h1. seeps",
+      "v1. arise",
+      "v2. REACT",
+      "v3. evade",
+      "h2. RIVAL",
+      "h3. IGBOS",
+      "h4. SEDER",
+      "h5. ETERNAL"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 6,
+    "actions": [
+      "h1. drain",
+      "v1. DROPS",
+      "h2. WORTH",
+      "h3. anaco",
+      "h4. LOPER",
+      "h5. ETERNAL"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 7,
+    "actions": [
+      "h2. shell",
+      "v1. serve",
+      "v2. NYLON",
+      "h1. evade",
+      "v3. ENURE",
+      "h3. ELU??"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 8,
+    "actions": [
+      "h1. avert",
+      "v3. EXEAT",
+      "v1. awful",
+      "h2. waxer",
+      "h3. float",
+      "v2. VALVE",
+      "h4. GRAPE",
+      "h5. delay",
+      "v4. REAPA",
+      "v5. trays"
+    ],
+    "final_board": "Current Board:\nAVERT\nWAXER\nFLOAA\nGRAPY\nDELAS\n\nUnfilled:\n\nFilled:\nh1. To avoid; to turn away: AVERT\nh2. One who waxes: WAXER\nv4. A cigarette: REAPA\nv5. Wooden; wooden dishes and utensils: TRAYS\n\nChanged:\nh3. To float; to swim: FLOAA\nh4. Grape jam: GRAPY\nh5. To become late; to cause to become late: DELAS\nv1. Terrible; very: AWFGD\nv2. An anatomical valve: VALRE\nv3. A bishop's permission for a priest to leave a diocese: EXOAL\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 10,
+    "puzzle": 9,
+    "actions": [
+      "h2. rival",
+      "h3. loser",
+      "h1. modal",
+      "h4. novel",
+      "h5. yenta",
+      "v1. clasp",
+      "v2. OIOOE",
+      "v3. BURAN",
+      "v4. AAEET",
+      "v5. LLRLA"
+    ],
+    "final_board": "Current Board:\nCOBAL\nLIUAL\nAORER\nSOAEL\nPENTA\n\nUnfilled:\n\nFilled:\nv1. To fasten; to hold: CLASP\nv2. To move: OIOOE\nv3. A violent Central Asian blizzard: BURAN\nv4. Odorous; fragrant: AAEET\nv5. A light Greek shield; an apothecium: LLRLA\n\nChanged:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: COBAL\nh2. To emulate: LIUAL\nh3. A worthless person: AORER\nh4. Culturally or stylistically new: SOAEL\nh5. A talkative, gossipy person: PENTA\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 1,
+    "actions": [
+      "h1. chore",
+      "v1. aware",
+      "h2. wired",
+      "h3. rouse",
+      "h4. rouse"
+    ],
+    "final_board": "Current Board:\nAHORE\nWIRED\nROUSE\nROUSE\nE____\n\nUnfilled:\nh5. To put into action: E____\nv2. A gadget: HIOO_\nv3. Notched or uneven, as if gnawed away (cognate with \"erode\"): ORUU_\nv4. Not ever: RESS_\nv5. Drenched; drowned: EDEE_\n\nFilled:\nh2. One who wires: WIRED\nh3. To stir up; to remove from office: ROUSE\nh4. Ascended; awakened: ROUSE\n\nChanged:\nh1. An agendum; something to be done: AHORE\nv1. Mindful; conscious: AWRRE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 10,
+    "actions": [
+      "h3. friar",
+      "v1. buffo",
+      "h1. BEBOP",
+      "h2. UROMA",
+      "v2. ERROR"
+    ],
+    "final_board": "Current Board:\nBEBOP\nUROMA\nFRIAR\nFO___\nOR___\n\nUnfilled:\nh4. To take; to receive: FO___\nh5. Argal; crude tartar: OR___\nv3. Existence; a creature: BOI__\nv4. The ruby snapper fish: OMA__\nv5. Apparel; an egg preparation used to clarify wine: PAR__\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BEBOP\nh2. An Indian mallow: UROMA\nh3. A religious brother: FRIAR\nv1. A comic actor or operatic clown: BUFFO\nv2. A mistake: ERROR\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 11,
+    "actions": [
+      "h3. irial",
+      "h1. bopry",
+      "v1. build",
+      "h2. UDUMB",
+      "h4. loach"
+    ],
+    "final_board": "Current Board:\nBOPRY\nUDUMB\nIRIAL\nLOACH\nD____\n\nUnfilled:\nh5. Prolonged and deep fear: D____\nv2. A mistake: ODRO_\nv3. A fabric; a yellowish gray color: PUIA_\nv4. The ruby snapper fish: RMAC_\nv5. Variegated; glazed: YBLH_\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BOPRY\nh2. An Indian mallow: UDUMB\nh3. Relating to the iris: IRIAL\nh4. Miner's thumb; a small fish: LOACH\nv1. To construct; to erect: BUILD\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "h2. ogive",
+      "h3. imaum",
+      "v1. BOCCE",
+      "h4. cacao"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCMAUM\nCACAO\nE____\n\nUnfilled:\nh5. One who eats: E____\nv2. A Yoruba-speaking people: IGMA_\nv3. A guide; a captain: PIAC_\nv4. To avoid: EVUA_\nv5. To delay; to put off: DEMO_\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nh4. A plant related to the burdock: CACAO\nv1. An Italian lawn game played with wooden balls: BOCCE\n\nChanged:\nh3. A caliph: CMAUM\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 13,
+    "actions": [
+      "h1. biped",
+      "v2. irade",
+      "h2. urari",
+      "v1. buyer",
+      "h3. YAGER"
+    ],
+    "final_board": "Current Board:\nBIPED\nURARI\nYAGER\nED___\nRE___\n\nUnfilled:\nh4. Something that is drawn forth: ED___\nh5. Indolent; restive: RE___\nv3. A county division: PAG__\nv4. To choose; a person chosen or destined to go to Heaven: ERE__\nv5. Soiled; improper: DIR__\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. Oorali, a poison used on arrows: URARI\nh3. A northern bird; a jager, a light infantryman: YAGER\nv1. A purchaser: BUYER\nv2. A Turkish written decree: IRADE\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 14,
+    "actions": [
+      "h2. amide",
+      "v1. bayar",
+      "v5. seder",
+      "h1. BOOPS",
+      "h3. YAZID"
+    ],
+    "final_board": "Current Board:\nBOOPS\nAMIDE\nYAZID\nA___E\nR___R\n\nUnfilled:\nh4. A piano piece: A___E\nh5. A shim; a vessel; a lining: R___R\nv2. A violin: OMA__\nv3. A traditional folk or synagogue melody: OIZ__\nv4. A UNIX file system structure: PDI__\n\nFilled:\nh1. The genus to which the dog and wolf belong: BOOPS\nh2. An ammonia compound: AMIDE\nh3. A pagoda; an Indian idol: YAZID\nv1. A horse: BAYAR\nv5. A Passover meal: SEDER\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 15,
+    "actions": [
+      "h1. canis",
+      "h2. turki",
+      "h3. ramie",
+      "h4. prone",
+      "h5. nilgai"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 16,
+    "actions": [
+      "h2. urine",
+      "h1. CANIS",
+      "h3. SANDA",
+      "v1. CUSCU",
+      "h4. cames"
+    ],
+    "final_board": "Current Board:\nCANIS\nURINE\nSANDA\nCAMES\nU____\n\nUnfilled:\nh5. High; high-class; pretentious: U____\nv2. The Brazilian macaw; an Australian bird: ARAA_\nv3. A New Zealand palm: NINM_\nv4. Unfit; clumsy: INDE_\nv5. To perceive; wisdom; reason; feeling: SEAS_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Liquid body waste: URINE\nh3. An Asian cape: SANDA\nh4. Defecates; a dice game: CAMES\nv1. A kerchief: CUSCU\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 17,
+    "actions": [
+      "h1. canis",
+      "h2. urari",
+      "h3. ROMIC",
+      "v1. CURST",
+      "h4. screw"
+    ],
+    "final_board": "Current Board:\nCANIS\nURARI\nROMIC\nSCREW\nT____\n\nUnfilled:\nh5. Belonging to you: T____\nv2. An old fashioned term for various medical remedies: AROC_\nv3. An Australian river: NAMR_\nv4. Ancient Troy: IRIE_\nv5. A shekel: SICW_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Oorali, a poison used on arrows: URARI\nh3. A phonetic notation: ROMIC\nh4. A small wheel or spindle; to transfer to a peripheral device: SCREW\nv1. Poetic \"cursed\"; peevish: CURST\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 18,
+    "actions": [
+      "h1. canis",
+      "v1. curst",
+      "h2. ABUTA",
+      "h3. roist",
+      "h4. STULL"
+    ],
+    "final_board": "Current Board:\nCANIS\nABUTA\nROIST\nSTULL\nT____\n\nUnfilled:\nh5. Tart or sour; like a prostitute: T____\nv2. A performance ring: ABOT_\nv3. Not ever: NUIU_\nv4. Unmoving; inactive: ITSL_\nv5. Briny; profane: SATL_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An Indian mallow: ABUTA\nh3. To feast; to carouse; another name for Reval: ROIST\nh4. A pound sterling: STULL\n\nChanged:\nv1. Poetic \"cursed\"; peevish: CARST\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 19,
+    "actions": [
+      "h2. helix",
+      "v1. camus",
+      "h1. elect",
+      "v2. LEMMA",
+      "h3. mimic"
+    ],
+    "final_board": "Current Board:\nELECT\nAELIX\nMIMIC\nUM___\nSA___\n\nUnfilled:\nh4. A Passover meal: UM___\nh5. A pound sterling: SA___\nv3. To avoid capture or detection: ELM__\nv4. One who strains; one who runs heavily: CII__\nv5. To put into action: TXC__\n\nFilled:\nh1. To choose: ELECT\nh3. To emulate: MIMIC\n\nChanged:\nh2. A spiral, usually three dimensional: AELIX\nv1. A board game; a British river: EAMUS\nv2. British dialect for \"them\": LEIMA\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 2,
+    "actions": [
+      "h1. amigo",
+      "v1. Amish",
+      "v2. mania",
+      "h2. MAJOR",
+      "h3. input"
+    ],
+    "final_board": "Current Board:\nAMIGO\nMAJOR\nINPUT\nSI___\nHA___\n\nUnfilled:\nh4. To besiege: SI___\nh5. More healthy; a coin: HA___\nv3. To force; to drive: IJP__\nv4. To dig out roughly: GOU__\nv5. On the outside: ORT__\n\nFilled:\nh1. A male friend: AMIGO\nh2. Something big and important: MAJOR\nh3. Things that enter; data given to a computer program: INPUT\nv1. A Mennonite sect, named for Jacob Ammann: AMISH\nv2. A craze: MANIA\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 20,
+    "actions": [
+      "h1. elect",
+      "v1. chess",
+      "h2. HELIX",
+      "h3. EROSE",
+      "h4. SEDAL"
+    ],
+    "final_board": "Current Board:\nCLECT\nHELIX\nEROSE\nSEDAL\nS____\n\nUnfilled:\nh5. A pound sterling: S____\nv2. A wading bird: LERE_\nv3. To run away together to get married: ELOD_\nv4. Cider; sicer: CISA_\nv5. To put into action: TXEL_\n\nFilled:\nh2. A spiral, usually three dimensional: HELIX\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): EROSE\nh4. A drinker; a sedative: SEDAL\nv1. A board game; a British river: CHESS\n\nChanged:\nh1. To choose: CLECT\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 21,
+    "actions": [
+      "h3. erect",
+      "h1. elect",
+      "v1. ewers",
+      "v2. LERNE",
+      "v3. EMEER"
+    ],
+    "final_board": "Current Board:\nELECT\nWEM__\nERECT\nRNE__\nSER__\n\nUnfilled:\nh2. British dialect for \"them\": WEM__\nh4. An inscribed column; sap system: RNE__\nh5. Drier; a language: SER__\nv4. A century: C_C__\nv5. To come in: T_T__\n\nFilled:\nh1. To choose: ELECT\nh3. To raise up; to build: ERECT\nv1. A board game; a British river: EWERS\nv2. A heart: LERNE\nv3. An Arab prince: EMEER\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 22,
+    "actions": [
+      "v1. trill",
+      "h1. taste",
+      "h2. share",
+      "v2. AHILA",
+      "h3. OLENT"
+    ],
+    "final_board": "Current Board:\nTASTE\nSHARE\nOLENT\nLL___\nLA___\n\nUnfilled:\nh4. The minister's house: LL___\nh5. To change: LA___\nv3. An occurrence: SAE__\nv4. To perceive; wisdom; reason; feeling: TRN__\nv5. To come in: EET__\n\nFilled:\nh1. To choose: TASTE\nh2. Rent; split: SHARE\nh3. Odorous; fragrant: OLENT\n\nChanged:\nv1. A quaver: TSOLL\nv2. Pertaining to a hilum: AHLLA\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 23,
+    "actions": [
+      "h3. older",
+      "v1. croon",
+      "h1. elect",
+      "v2. lolly",
+      "h2. rowdy"
+    ],
+    "final_board": "Current Board:\nELECT\nROWDY\nOLDER\nOL___\nNY___\n\nUnfilled:\nh4. A Japanese island: OL___\nh5. To sneeze: NY___\nv3. To provide with some quality or gift: EWD__\nv4. Stalks; stops: CDE__\nv5. An eagle's nest: TYR__\n\nFilled:\nh1. To choose: ELECT\nh2. Boisterous; vociferous: ROWDY\nh3. More aged: OLDER\nv2. The throat; the neck; the windpipe: LOLLY\n\nChanged:\nv1. To sing romantically: EROON\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 24,
+    "actions": [
+      "v1. crwth",
+      "v2. hilar",
+      "h1. cower",
+      "h2. RIVEN",
+      "h3. OLENT"
+    ],
+    "final_board": "Current Board:\nCOWER\nRIVEN\nOLENT\nTA___\nHR___\n\nUnfilled:\nh4. Slang for \"want to\": TA___\nh5. Prolonged and deep fear: HR___\nv3. To happen: WVE__\nv4. Dried cassia leaves: EEN__\nv5. Anatomically toward the inside: RNT__\n\nFilled:\nh1. To choose: COWER\nh2. Rent; split: RIVEN\nh3. Odorous; fragrant: OLENT\n\nChanged:\nv1. A mob; a Welsh violin: CROTH\nv2. Pertaining to a hilum, the mark or scar on a seed produced by separation: OILAR\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 25,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "v2. HELLO",
+      "h2. EAGLE",
+      "h3. ULULA"
+    ],
+    "final_board": "Current Board:\nCHECT\nEAGLE\nULULA\nSL___\nHO___\n\nUnfilled:\nh4. To slide; to skulk: SL___\nh5. One who uses a hose; a good guy: HO___\nv3. The Islamic name for Satan: EGU__\nv4. To sift: CLL__\nv5. One who eats: TEA__\n\nFilled:\nh2. A coin: EAGLE\nh3. A European owl: ULULA\n\nChanged:\nh1. To choose: CHECT\nv1. To subdue; to crumple; a hidden romantic attraction: CEUSH\nv2. A greeting: HALLO\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 26,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "h2. RONIN",
+      "h3. ULULA",
+      "h4. sneak"
+    ],
+    "final_board": "Current Board:\nCLECT\nRONIN\nULULA\nSNEAK\nH____\n\nUnfilled:\nh5. More healthy; a coin: H____\nv2. A greeting: LOLN_\nv3. A Babylonian god: ENUE_\nv4. To sift: CILA_\nv5. To come in: TNAK_\n\nFilled:\nh2. A Japanese outcast: RONIN\nh3. A European owl: ULULA\nh4. To slide; to skulk: SNEAK\nv1. To subdue; to crumple; a hidden romantic attraction: CRUSH\n\nChanged:\nh1. To choose: CLECT\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 27,
+    "actions": [
+      "h2. redox",
+      "v1. crowd",
+      "h1. elect",
+      "v2. LAUDS",
+      "h3. OKRAS"
+    ],
+    "final_board": "Current Board:\nELECT\nRADOX\nOKRAS\nWD___\nDS___\n\nUnfilled:\nh4. The blue titmouse: WD___\nh5. A center; a body organ: DS___\nv3. Excessive fluid accumulation: EDR__\nv4. An underwater detection system (Sound Navigation Ranging): COA__\nv5. To praise; to raise higher: TXS__\n\nFilled:\nh1. To choose: ELECT\nh3. An Indian mallow: OKRAS\n\nChanged:\nh2. An oxidation/reduction reaction: RADOX\nv1. A crwth: EROWD\nv2. To praise; to worship: LAKDS\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 28,
+    "actions": [
+      "h1. clasp",
+      "h2. snare",
+      "h3. looey",
+      "v1. cloak",
+      "h4. abate"
+    ],
+    "final_board": "Current Board:\nCLASP\nLNARE\nOOOEY\nABATE\nK____\n\nUnfilled:\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: K____\nv2. An African tree: LNOB_\nv3. To exclude: AAOA_\nv4. An interjection expressing exasperation; nonsense: SRET_\nv5. To salute: PEYE_\n\nFilled:\nh1. To hold onto: CLASP\nh4. To wane or decrease: ABATE\nv1. A loose outer coat; a cover or pretext: CLOAK\n\nChanged:\nh2. One who snares birds with birdlime; a hanger-on: LNARE\nh3. Shaded or dyed; a 3 person card game using 40 cards: OOOEY\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 29,
+    "actions": [
+      "h1. clasp",
+      "h2. snare",
+      "h3. omber",
+      "h4. abase",
+      "h5. karst"
+    ],
+    "final_board": "Current Board:\nCLASP\nSNARE\nOMBER\nABASE\nKARST\n\nUnfilled:\nv1. A loose outer coat; a cover or pretext: CSOAK\nv2. A semitone: LNMBA\nv3. To exclude: AABAR\nv4. An interjection expressing exasperation; nonsense: SRESS\nv5. To salute: PERET\n\nFilled:\nh1. To hold onto: CLASP\nh2. One who snares birds with birdlime; a hanger-on: SNARE\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBER\nh4. To subdue; to terrify; a Central American timber tree: ABASE\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\n\nChanged:\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 3,
+    "actions": [
+      "v3. ilium",
+      "h1. buddy",
+      "h2. BLEED",
+      "h3. anion",
+      "h4. SUGAR"
+    ],
+    "final_board": "Current Board:\nBUDDY\nBLEED\nANION\nSUGAR\n__M__\n\nUnfilled:\nh5. A solitary person: __M__\nv1. Benefit; result: BBAS_\nv2. A Zen question and answer method; extreme: ULNU_\nv4. A water fowl; a pinch to the rear; tailor's iron: DEOA_\nv5. A possesser: YDNR_\n\nFilled:\nh1. A male friend: BUDDY\nh2. To baptize: BLEED\nh3. A negative ion: ANION\nh4. A sugar: SUGAR\n\nChanged:\nv3. Ancient Troy: DEIGM\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 30,
+    "actions": [
+      "h3. skat"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 4,
+    "actions": [
+      "h1. dryup",
+      "h2. retie",
+      "v1. arise",
+      "h3. ISTRIA"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 5,
+    "actions": [
+      "h1. drain",
+      "v1. ARISE",
+      "h2. rival",
+      "v2. rally",
+      "h3. ILAJE"
+    ],
+    "final_board": "Current Board:\nARAIN\nRAVAL\nILAJE\nSL___\nEY___\n\nUnfilled:\nh4. A Passover meal: SL___\nh5. Eternal, everlasting: EY___\nv3. To elude: AVA__\nv4. One who files: IAJ__\nv5. To crave: NLE__\n\nFilled:\nh3. A Yoruba-speaking people: ILAJE\nv1. To ascend; to get up; to come up: ARISE\nv2. To regain: RALLY\n\nChanged:\nh1. To dry up: ARAIN\nh2. To outdo; to bandy words: RAVAL\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 6,
+    "actions": [
+      "h1. drain",
+      "v1. DROPS",
+      "h2. value",
+      "h4. loper",
+      "v2. RABOT"
+    ],
+    "final_board": "Current Board:\nDRAIN\nVALUE\nOB___\nLOPER\nST___\n\nUnfilled:\nh3. A South American boa constrictor: OB___\nh5. Eternal, everlasting: ST___\nv3. To run away together to get married: AL_P_\nv4. One who fumes: IU_E_\nv5. To crave: NE_R_\n\nFilled:\nh1. To dry up: DRAIN\nh2. Worth; usefulness; desirability: VALUE\nh4. One who lopes: LOPER\nv2. A block for polishing marble or other rocks: RABOT\n\nChanged:\nv1. To let fall: DVOLS\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 7,
+    "actions": [
+      "h1. avert",
+      "v4. relic",
+      "v2. orlon",
+      "v1. ADMON",
+      "h2. DREEP"
+    ],
+    "final_board": "Current Board:\nAOERT\nDREEP\nML_L_\nOO_I_\nNN_C_\n\nUnfilled:\nh3. An herb, the elecampane plant: ML_L_\nh4. A nerve gas: OO_I_\nh5. To choose; a person chosen or destined to go to Heaven: NN_C_\nv3. To inure; to harden: EE___\nv5. To hawk; to peddle; odd jobs: TP___\n\nFilled:\nh2. A machine to separate peas from their pods and the pea vine: DREEP\nv1. To advise: ADMON\nv2. A synthetic textile fiber: ORLON\nv4. A memento; a souvenir: RELIC\n\nChanged:\nh1. To avoid; to turn away: AOERT\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 8,
+    "actions": [
+      "h1. evade",
+      "v1. EVILL",
+      "v2. VALVE",
+      "v3. EXEAT",
+      "h2. VAXES"
+    ],
+    "final_board": "Current Board:\nEVEDE\nVAXES\nILE__\nLVA__\nLET__\n\nUnfilled:\nh3. To float; to swim: ILE__\nh4. Grape jam: LVA__\nh5. To become late; to cause to become late: LET__\nv4. A cigarette: DE___\nv5. Wooden; wooden dishes and utensils: ES___\n\nFilled:\nh2. One who waxes: VAXES\nv1. Terrible; very: EVILL\nv2. An anatomical valve: VALVE\nv3. A bishop's permission for a priest to leave a diocese: EXEAT\n\nChanged:\nh1. To avoid; to turn away: EVEDE\n"
+  },
+  {
+    "repeat": 1,
+    "steps": 5,
+    "puzzle": 9,
+    "actions": [
+      "h2. mimic",
+      "h5. yenta",
+      "h1. bopry",
+      "h3. dross",
+      "h4. novel"
+    ],
+    "final_board": "Current Board:\nBOPRY\nMIMIC\nDROSS\nNOVEL\nYENTA\n\nUnfilled:\nv1. To fasten; to hold: BMDNY\nv2. To move: OIROE\nv3. A violent Central Asian blizzard: PMOVN\nv4. Odorous; fragrant: RISET\nv5. A light Greek shield; an apothecium: YCSLA\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BOPRY\nh2. To emulate: MIMIC\nh3. A worthless person: DROSS\nh4. Culturally or stylistically new: NOVEL\nh5. A talkative, gossipy person: YENTA\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 1,
+    "actions": [
+      "h1. tasks",
+      "v1. aware",
+      "h2. wires",
+      "h3. rouse",
+      "h4. rouse",
+      "v2. aioli",
+      "h5. EXERT",
+      "v3. EROSE",
+      "v4. NEVER",
+      "v5. SOUSE"
+    ],
+    "final_board": "Current Board:\nAAENS\nWIREO\nROOVU\nRLSES\nEXERE\n\nUnfilled:\n\nFilled:\nv3. Notched or uneven, as if gnawed away (cognate with \"erode\"): EROSE\nv4. Not ever: NEVER\nv5. Drenched; drowned: SOUSE\n\nChanged:\nh1. An agendum; something to be done: AAENS\nh2. One who wires: WIREO\nh3. To stir up; to remove from office: ROOVU\nh4. Ascended; awakened: RLSES\nh5. To put into action: EXERE\nv1. Mindful; conscious: AWRRE\nv2. A gadget: AIOLX\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 10,
+    "actions": [
+      "h3. friar",
+      "v1. buffo",
+      "h2. urali",
+      "v2. ERROR",
+      "h1. BEBOP",
+      "h4. adopt",
+      "v3. BIOTA",
+      "h5. ORATE",
+      "v4. OLAPT",
+      "v5. PIRTE"
+    ],
+    "final_board": "Current Board:\nBEBOP\nURILI\nFROAR\nADTPT\nORATE\n\nUnfilled:\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BEBOP\nh5. Argal; crude tartar: ORATE\nv3. Existence; a creature: BIOTA\nv4. The ruby snapper fish: OLAPT\nv5. Apparel; an egg preparation used to clarify wine: PIRTE\n\nChanged:\nh2. An Indian mallow: URILI\nh3. A religious brother: FROAR\nh4. To take; to receive: ADTPT\nv1. A comic actor or operatic clown: BUFAO\nv2. A mistake: ERRDR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 11,
+    "actions": [
+      "h1. modal",
+      "v1. build",
+      "h2. urali",
+      "v2. ERROR",
+      "h3. iridal"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "v1. bocce",
+      "h5. eater",
+      "v2. ITUBA",
+      "h2. OGIVE",
+      "h3. CALIF",
+      "h4. BURRS",
+      "v3. PILOT",
+      "v4. EVADE",
+      "v5. DEFER"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCALAF\nBUODE\nEATER\n\nUnfilled:\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nh5. One who eats: EATER\nv3. A guide; a captain: PILOT\nv4. To avoid: EVADE\nv5. To delay; to put off: DEFER\n\nChanged:\nh3. A caliph: CALAF\nh4. A plant related to the burdock: BUODE\nv1. An Italian lawn game played with wooden balls: BOCBE\nv2. A Yoruba-speaking people: IGAUA\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 13,
+    "actions": [
+      "h4. educe",
+      "v2. FERMA",
+      "h1. OFTEN",
+      "v4. ELECT",
+      "h2. HEBLE",
+      "v1. OWNER",
+      "h3. ERNE"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 14,
+    "actions": [
+      "h3. pagod",
+      "h1. canis",
+      "v5. seder",
+      "h2. amine",
+      "v1. CAPER",
+      "h4. etude",
+      "v2. AMATI",
+      "v3. NIGUN",
+      "h5. RINSE",
+      "v4. inode"
+    ],
+    "final_board": "Current Board:\nCANIS\nAMINE\nPAGOD\nETUDE\nRINEE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An ammonia compound: AMINE\nh3. A pagoda; an Indian idol: PAGOD\nh4. A piano piece: ETUDE\nv1. A horse: CAPER\nv2. A violin: AMATI\nv3. A traditional folk or synagogue melody: NIGUN\nv4. A UNIX file system structure: INODE\n\nChanged:\nh5. A shim; a vessel; a lining: RINEE\nv5. A Passover meal: SEDEE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 15,
+    "actions": [
+      "v1. batch",
+      "h1. Canis",
+      "h2. ALTAI",
+      "v2. ARAUS",
+      "h3. ramie",
+      "h4. cowed",
+      "h5. NILGA",
+      "v3. NOMOS",
+      "v4. iceni",
+      "v5. SIEDA"
+    ],
+    "final_board": "Current Board:\nCANIS\nAROCI\nRAMEE\nCOOND\nNISIA\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nv3. A Greek province; a law; a coin: NOMOS\nv4. An ancient British ethnic group: ICENI\nv5. Gloss; luster: SIEDA\n\nChanged:\nh2. An Altaic language: AROCI\nh3. Ramie, an Asiatic plant yielding a rope fiber: RAMEE\nh4. Face down; susceptible: COOND\nh5. An Indian antelope: NISIA\nv1. A contingent: CARCN\nv2. The Brazilian macaw; an Australian bird: ARAOI\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 16,
+    "actions": [
+      "h1. canis",
+      "v1. cloth",
+      "v2. araba",
+      "h2. urine",
+      "h3. NAPES",
+      "h4. DICES",
+      "v3. NIPCA",
+      "h5. HAART",
+      "v4. INEPT",
+      "v5. sense"
+    ],
+    "final_board": "Current Board:\nCANIS\nURINE\nNAPEN\nDICPS\nHAATE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Liquid body waste: URINE\nv3. A New Zealand palm: NIPCA\nv4. Unfit; clumsy: INEPT\nv5. To perceive; wisdom; reason; feeling: SENSE\n\nChanged:\nh3. An Asian cape: NAPEN\nh4. Defecates; a dice game: DICPS\nh5. High; high-class; pretentious: HAATE\nv1. A kerchief: CUNDH\nv2. The Brazilian macaw; an Australian bird: ARAIA\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 17,
+    "actions": [
+      "h1. canis",
+      "h2. urari",
+      "h3. roman",
+      "v1. CURST",
+      "h4. screw",
+      "h5. thine",
+      "v2. AROCH",
+      "v3. NAMOI",
+      "v4. ILION",
+      "v5. SINWE"
+    ],
+    "final_board": "Current Board:\nCANIS\nURALI\nROMIN\nSCOOW\nTHINE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh5. Belonging to you: THINE\nv1. Poetic \"cursed\"; peevish: CURST\nv2. An old fashioned term for various medical remedies: AROCH\nv3. An Australian river: NAMOI\nv4. Ancient Troy: ILION\nv5. A shekel: SINWE\n\nChanged:\nh2. Oorali, a poison used on arrows: URALI\nh3. A phonetic notation: ROMIN\nh4. A small wheel or spindle; to transfer to a peripheral device: SCOOW\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 18,
+    "actions": [
+      "h1. canis",
+      "v1. cagot",
+      "v2. arena",
+      "v3. never",
+      "h2. ABUTS",
+      "v4. INERT",
+      "h3. REVEL",
+      "h4. ONERS",
+      "h5. TARTY",
+      "v5. SALTY"
+    ],
+    "final_board": "Current Board:\nCANIS\nABUNA\nREVEL\nONERT\nTARTY\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh3. To feast; to carouse; another name for Reval: REVEL\nh5. Tart or sour; like a prostitute: TARTY\nv4. Unmoving; inactive: INERT\nv5. Briny; profane: SALTY\n\nChanged:\nh2. An Indian mallow: ABUNA\nh4. A pound sterling: ONERT\nv1. Poetic \"cursed\"; peevish: CAROT\nv2. A performance ring: ABENA\nv3. Not ever: NUVER\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 19,
+    "actions": [
+      "h1. elect",
+      "v1. CAMEL",
+      "h2. HELIX",
+      "h3. mimic",
+      "h4. SEDER",
+      "h5. pound",
+      "v2. LEIEO",
+      "v3. evade",
+      "v4. CIIEN",
+      "v5. EXERT"
+    ],
+    "final_board": "Current Board:\nCLECE\nHEVIX\nMIAIE\nSEDER\nPOENT\n\nUnfilled:\n\nFilled:\nh4. A Passover meal: SEDER\nv2. British dialect for \"them\": LEIEO\nv3. To avoid capture or detection: EVADE\nv4. One who strains; one who runs heavily: CIIEN\nv5. To put into action: EXERT\n\nChanged:\nh1. To choose: CLECE\nh2. A spiral, usually three dimensional: HEVIX\nh3. To emulate: MIAIE\nh5. A pound sterling: POENT\nv1. A board game; a British river: CHMSP\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 2,
+    "actions": [
+      "h1. buddy",
+      "v1. Amish",
+      "v2. MANIA",
+      "h2. major",
+      "h3. input",
+      "h4. siege",
+      "h5. HEALY",
+      "v3. IMPEL",
+      "v4. DOUGL",
+      "v5. outer"
+    ],
+    "final_board": "Current Board:\nAMIDO\nMAMOU\nINPUT\nSIEGE\nHELLR\n\nUnfilled:\n\nFilled:\nh3. Things that enter; data given to a computer program: INPUT\nh4. To besiege: SIEGE\nv1. A Mennonite sect, named for Jacob Ammann: AMISH\nv3. To force; to drive: IMPEL\nv4. To dig out roughly: DOUGL\nv5. On the outside: OUTER\n\nChanged:\nh1. A male friend: AMIDO\nh2. Something big and important: MAMOU\nh5. More healthy; a coin: HELLR\nv2. A craze: MANIE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 20,
+    "actions": [
+      "h1. elect",
+      "h2. helix",
+      "h3. erose",
+      "h4. opium",
+      "h5. pound",
+      "v1. chess",
+      "v2. HERON",
+      "v3. elope",
+      "v4. CIDER",
+      "v5. EXERT"
+    ],
+    "final_board": "Current Board:\nCHECE\nHELIX\nERODE\nSOPER\nSNERT\n\nUnfilled:\n\nFilled:\nh2. A spiral, usually three dimensional: HELIX\nv1. A board game; a British river: CHESS\nv2. A wading bird: HERON\nv3. To run away together to get married: ELOPE\nv4. Cider; sicer: CIDER\nv5. To put into action: EXERT\n\nChanged:\nh1. To choose: CHECE\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): ERODE\nh4. A drinker; a sedative: SOPER\nh5. A pound sterling: SNERT\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 21,
+    "actions": [
+      "h3. erect",
+      "v1. chess",
+      "h1. c h o o s e"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 22,
+    "actions": [
+      "h1. elect",
+      "h2. split",
+      "v1. EIGHTH"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 23,
+    "actions": [
+      "h3. older",
+      "v1. croon",
+      "h1. cream",
+      "h2. rowdy",
+      "v2. ROLEX",
+      "h4. Okina",
+      "h5. NEXUS",
+      "v3. ENDUE",
+      "v4. ADENU",
+      "v5. AERIE"
+    ],
+    "final_board": "Current Board:\nCREAA\nRONDE\nOLDER\nOKUNI\nNEEUE\n\nUnfilled:\n\nFilled:\nh3. More aged: OLDER\nv1. To sing romantically: CROON\nv3. To provide with some quality or gift: ENDUE\nv4. Stalks; stops: ADENU\nv5. An eagle's nest: AERIE\n\nChanged:\nh1. To choose: CREAA\nh2. Boisterous; vociferous: RONDE\nh4. A Japanese island: OKUNI\nh5. To sneeze: NEEUE\nv2. The throat; the neck; the windpipe: ROLKE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 24,
+    "actions": [
+      "v1. crwth",
+      "h1. culls",
+      "h2. share",
+      "h3. OLENT",
+      "h4. wanna",
+      "h5. dread",
+      "v2. UHLAR",
+      "v3. event",
+      "v4. LRNNA",
+      "v5. INWARD"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 25,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "h2. RUPEE",
+      "h3. ULULA",
+      "h4. sneak",
+      "Let\u2019s look at what we have.\n\nCurrent board (rows):\n\n1. C L E C T  \n2. R U P E E  \n3. U L U L A  \n4. S N E A K  \n5. H _ _ _ _  \n\nFilled clues:  \n- h2 RUPEE  \n- h3 ULULA  \n- h4 SNEAK  \n- v1 CRUSH  \n\nUnfilled clues:  \n- h5: \"One who uses a hose; a good guy: H____\"  \n- v2: \"A greeting: LULN_\" (but from board, v2 letters are L, U, L, N, _ \u2014 yes, matches)  \n- v3: \"The Islamic name for Satan: EPUE_\" (board v3: E, P, U, E, _)  \n- v4: \"To sift: CELA_\" (board v4: C, E, L, A, _)  \n- v5: \"One who eats: TEAK_\" (board v5: T, E, A, K, _)  \n\n---\n\n**h5** starts with H, and clue is \u201cOne who uses a hose; a good guy\u201d \u2192 likely \u201cHERO\u201d but that\u2019s 4 letters. 5 letters: \u201cHYDRO\u201d? No. \u201cHOSER\u201d? That\u2019s someone who uses a hose, but \u201cgood guy\u201d suggests \u201cHERO\u201d \u2014 could be \u201cHEROS\u201d? Not standard. Maybe \u201cHOSER\u201d fits both? But \u201cgood guy\u201d = \u201cHERO\u201d \u2014 5 letters could be \u201cHEROE\u201d no.  \n\nWait \u2014 \u201cOne who uses a hose\u201d = \u201cHOSER\u201d (slang, but possible). \u201cA good guy\u201d = \u201cHOSER\u201d? no. Maybe \u201cHOSER\u201d is just the hose user; the \u201cgood guy\u201d might be separate meaning? Possibly \u201cHOSER\u201d is wrong.  \n\nBut let\u2019s check crossing letters for h5:  \nh5 letters: H (given), then column 2 row 5 = v2 last letter, column 3 row 5 = v3 last letter, col4 row5 = v4 last letter, col5 row5 = v5 last letter.  \n\nFrom v2 clue \u201cA greeting\u201d = LULN_ \u2192 could be \u201cLULNG\u201d? No. \u201cLULN_\u201d maybe \u201cLUL"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 26,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "h2. RONIN",
+      "h3. ULULA",
+      "h4. sneak",
+      "h5. HEALT",
+      "v2. HELLO",
+      "v3. ENUEA",
+      "v4. CILAL",
+      "v5. enter"
+    ],
+    "final_board": "Current Board:\nCHECE\nRENIN\nULULT\nSLEAE\nHOALR\n\nUnfilled:\n\nFilled:\nv1. To subdue; to crumple; a hidden romantic attraction: CRUSH\nv2. A greeting: HELLO\nv3. A Babylonian god: ENUEA\nv4. To sift: CILAL\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: CHECE\nh2. A Japanese outcast: RENIN\nh3. A European owl: ULULT\nh4. To slide; to skulk: SLEAE\nh5. More healthy; a coin: HOALR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 27,
+    "actions": [
+      "h2. redox",
+      "h1. elect",
+      "v1. CRWTH",
+      "v2. LEAST",
+      "h3. ABUTILON"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 28,
+    "actions": [
+      "h2. snare",
+      "v1. smock",
+      "v2. NGAPI",
+      "h5. karst",
+      "h1. SNARE",
+      "h3. ombre",
+      "h4. EBBED",
+      "v3. AABBR",
+      "v4. TRIPE",
+      "v5. EMEER"
+    ],
+    "final_board": "Current Board:\nSNATE\nMGARM\nOMBIE\nEBBPE\nKARER\n\nUnfilled:\n\nFilled:\nv3. To exclude: AABBR\nv4. An interjection expressing exasperation; nonsense: TRIPE\nv5. To salute: EMEER\n\nChanged:\nh1. To hold onto: SNATE\nh2. One who snares birds with birdlime; a hanger-on: MGARM\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBIE\nh4. To wane or decrease: EBBPE\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARER\nv1. A loose outer coat; a cover or pretext: SMOEK\nv2. An African tree: NGMBA\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 29,
+    "actions": [
+      "v1. cloak",
+      "h1. clasp",
+      "h2. LIMER",
+      "h3. ombre",
+      "h4. abase",
+      "h5. KARST",
+      "v2. LIMBA",
+      "v3. AMBAR",
+      "v4. SERSS",
+      "v5. PREET"
+    ],
+    "final_board": "Current Board:\nCLASP\nLIMER\nOMBRE\nABASE\nKARST\n\nUnfilled:\n\nFilled:\nh1. To hold onto: CLASP\nh2. One who snares birds with birdlime; a hanger-on: LIMER\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nh4. To subdue; to terrify; a Central American timber tree: ABASE\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\nv1. A loose outer coat; a cover or pretext: CLOAK\nv2. A semitone: LIMBA\nv3. To exclude: AMBAR\nv4. An interjection expressing exasperation; nonsense: SERSS\nv5. To salute: PREET\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 3,
+    "actions": [
+      "h1. amigo",
+      "h2. BAPTI",
+      "v1. AVAIL",
+      "v5. OWNER",
+      "h3. ANION",
+      "h4. icing",
+      "h5. LONER",
+      "v2. KOANS",
+      "v3. ILIUM",
+      "v4. GOOSE"
+    ],
+    "final_board": "Current Board:\nAKIGO\nVOLOW\nAAION\nINUSG\nLSMER\n\nUnfilled:\n\nFilled:\nv1. Benefit; result: AVAIL\nv2. A Zen question and answer method; extreme: KOANS\nv3. Ancient Troy: ILIUM\nv4. A water fowl; a pinch to the rear; tailor's iron: GOOSE\n\nChanged:\nh1. A male friend: AKIGO\nh2. To baptize: VOLOW\nh3. A negative ion: AAION\nh4. A sugar: INUSG\nh5. A solitary person: LSMER\nv5. A possesser: OWNGR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 30,
+    "actions": [
+      "h1. clasp",
+      "v1. croak",
+      "h2. ratch",
+      "h3. ombre",
+      "h4. abate",
+      "h5. KARST",
+      "v2. LAMBA",
+      "v3. debar",
+      "v4. CRSTS",
+      "v5. PHEET"
+    ],
+    "final_board": "Current Board:\nCLDCP\nRAERH\nOMBSE\nABATE\nKARST\n\nUnfilled:\n\nFilled:\nh4. To subdue; to terrify; a Central American timber tree: ABATE\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\nv1. A frog sound; to die: CROAK\nv2. A semitone: LAMBA\nv3. To exclude: DEBAR\nv4. An interjection expressing exasperation; nonsense: CRSTS\nv5. To salute: PHEET\n\nChanged:\nh1. To hold onto: CLDCP\nh2. An enlarged tool: RAERH\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBSE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 4,
+    "actions": [
+      "h1. drain",
+      "v1. arise",
+      "v2. RESIT",
+      "v3. AIMER",
+      "h2. retie",
+      "h3. ISTRIA"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 5,
+    "actions": [
+      "v3. evade",
+      "h1. EBBED",
+      "h2. outdo",
+      "Let\u2019s solve step-by-step:  \n\n**Current board** (letters filled):\n\nRow 1: E B B E D  \nRow 2: O U T D O  \nRow 3: _ _ A _ _  \nRow 4: _ _ D _ _  \nRow 5: _ _ E _ _  \n\n**Given clues:**  \n\nh3: \"__A__\" Yoruba-speaking people \u2192 likely \"IJAW\"? no, 5 letters; maybe \"YORUBA\" too long, but the pattern is only one letter shown: position 3 = A.  \nPossible: \"IGBO\"? (3rd letter is B, not A), \"EDO\"? no (3 letters). The Yoruba-speaking people: could be **\"EGBA\"** (a subgroup of Yoruba) \u2014 E G B A = only 4 letters. Not correct. 5-letter: maybe **\"OYO\"** no. Etsako? no. Let\u2019s hold.\n\nh4: \"__D__\" Passover meal = **\"SEDER\"** (5 letters, D at 3rd position). That fits: S E D E R.\n\nh5: \"__E__\" Eternal, everlasting = likely **\"EVER\"**? That\u2019s 4. 5 letters: \"ETERNE\"? archaic, fits pattern E _ E _ _. Actually 3rd letter E: \"AGELESS\" no. Could be \"UNDYING\" (no). Likely **\"ETERNE\"** (poetic) or maybe **\"AEONI\"?** Wait, derived from \"eternal\": **\"ETERN\"**? Let\u2019s check vowels: h5: _ _ E _ _, 3rd letter E. \"NEVER\" no. \"EVERE\"?   \nA famous crossword answer: **\"ETERNE\"** means eternal, everlasting \u2014 that is 6 letters: E T E R N E is six \u2014 too long. Maybe **\"EERIE\"** no. Another: \"DEATHLESS\" 9. But 5 letters eternal: \"AGELESS\" 7. Possibly \"EON?\" Maybe they want \"AEONS\" no. Might need vertical clues to confirm.\n\nCheck vertical possibilities given current fill:\n\nColumn 1 (v1): E O _ _ _  \nv1 clue: \"To ascend; to get up; to come up\" \u2192 start with EO. Possible answer: \"ERU"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 6,
+    "actions": [
+      "h1. drain",
+      "h2. value",
+      "h3. boa"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 7,
+    "actions": [
+      "h1. avoid",
+      "v1. ADVIS",
+      "h2. daven",
+      "v2. VANYA",
+      "h3. ENULA",
+      "v3. inure",
+      "h4. xylyl",
+      "v4. RELIC",
+      "h5. ELECT",
+      "v5. DNALT"
+    ],
+    "final_board": "Current Board:\nAVIRD\nDANEN\nENULA\nXYLIL\nELECT\n\nUnfilled:\n\nFilled:\nh3. An herb, the elecampane plant: ENULA\nh5. To choose; a person chosen or destined to go to Heaven: ELECT\nv4. A memento; a souvenir: RELIC\nv5. To hawk; to peddle; odd jobs: DNALT\n\nChanged:\nh1. To avoid; to turn away: AVIRD\nh2. A machine to separate peas from their pods and the pea vine: DANEN\nh4. A nerve gas: XYLIL\nv1. To advise: ADEXE\nv2. A synthetic textile fiber: VANYL\nv3. To inure; to harden: INULE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 8,
+    "actions": [
+      "h1. avert",
+      "h2. tansy",
+      "v1. awful",
+      "h3. float",
+      "h4. GUAVA",
+      "v2. valve",
+      "h5. delay",
+      "v3. ENOAL",
+      "v4. SMOKE",
+      "v5. WOODY"
+    ],
+    "final_board": "Current Board:\nAVESW\nWANMO\nFLOOO\nGVAKD\nDELEY\n\nUnfilled:\n\nFilled:\nv2. An anatomical valve: VALVE\nv3. A bishop's permission for a priest to leave a diocese: ENOAL\nv4. A cigarette: SMOKE\nv5. Wooden; wooden dishes and utensils: WOODY\n\nChanged:\nh1. To avoid; to turn away: AVESW\nh2. One who waxes: WANMO\nh3. To float; to swim: FLOOO\nh4. Grape jam: GVAKD\nh5. To become late; to cause to become late: DELEY\nv1. Terrible; very: AWFGD\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 10,
+    "puzzle": 9,
+    "actions": [
+      "h2. model",
+      "v1. clamp",
+      "v2. STIRR",
+      "h1. CRAZY",
+      "h3. crumb",
+      "v3. adurz",
+      "h4. novel",
+      "v4. ZEMEL",
+      "h5. pratt",
+      "v5. YLBLT"
+    ],
+    "final_board": "Current Board:\nCRAZY\nLTDEL\nCRUMB\nNOVEL\nPRATT\n\nUnfilled:\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: CRAZY\nh3. A worthless person: CRUMB\nh4. Culturally or stylistically new: NOVEL\nh5. A talkative, gossipy person: PRATT\nv5. A light Greek shield; an apothecium: YLBLT\n\nChanged:\nh2. To emulate: LTDEL\nv1. To fasten; to hold: CLCNP\nv2. To move: RTROR\nv3. A violent Central Asian blizzard: ADUVA\nv4. Odorous; fragrant: ZEMET\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 1,
+    "actions": [
+      "h1. chore",
+      "v1. aware",
+      "h2. WIRER",
+      "v2. HINGE",
+      "h3. rouse"
+    ],
+    "final_board": "Current Board:\nAHORE\nWIRER\nROUSE\nRG___\nEE___\n\nUnfilled:\nh4. Ascended; awakened: RG___\nh5. To put into action: EE___\nv3. Notched or uneven, as if gnawed away (cognate with \"erode\"): ORU__\nv4. Not ever: RES__\nv5. Drenched; drowned: ERE__\n\nFilled:\nh2. One who wires: WIRER\nh3. To stir up; to remove from office: ROUSE\n\nChanged:\nh1. An agendum; something to be done: AHORE\nv1. Mindful; conscious: AWRRE\nv2. A gadget: HIOGE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 10,
+    "actions": [
+      "h5. argol",
+      "v1. buffa",
+      "v2. error",
+      "h1. BEBOP",
+      "h2. Urena"
+    ],
+    "final_board": "Current Board:\nBEBOP\nURENA\nFR___\nFO___\nARGOL\n\nUnfilled:\nh3. A religious brother: FR___\nh4. To take; to receive: FO___\nv3. Existence; a creature: BE__G\nv4. The ruby snapper fish: ON__O\nv5. Apparel; an egg preparation used to clarify wine: PA__L\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BEBOP\nh2. An Indian mallow: URENA\nh5. Argal; crude tartar: ARGOL\nv1. A comic actor or operatic clown: BUFFA\nv2. A mistake: ERROR\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 11,
+    "actions": [
+      "h3. irial",
+      "h1. avant",
+      "h2. ABUTI",
+      "v1. build",
+      "h4. loach"
+    ],
+    "final_board": "Current Board:\nBVANT\nUBUTI\nIRIAL\nLOACH\nD____\n\nUnfilled:\nh5. Prolonged and deep fear: D____\nv2. A mistake: VBRO_\nv3. A fabric; a yellowish gray color: AUIA_\nv4. The ruby snapper fish: NTAC_\nv5. Variegated; glazed: TILH_\n\nFilled:\nh3. Relating to the iris: IRIAL\nh4. Miner's thumb; a small fish: LOACH\nv1. To construct; to erect: BUILD\n\nChanged:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BVANT\nh2. An Indian mallow: UBUTI\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "h2. ogive",
+      "v1. BOCCE",
+      "v2. IGALA",
+      "h3. calif"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCALIF\nCL___\nEA___\n\nUnfilled:\nh4. A plant related to the burdock: CL___\nh5. One who eats: EA___\nv3. A guide; a captain: PIL__\nv4. To avoid: EVI__\nv5. To delay; to put off: DEF__\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nh3. A caliph: CALIF\nv1. An Italian lawn game played with wooden balls: BOCCE\nv2. A Yoruba-speaking people: IGALA\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 13,
+    "actions": [
+      "v3. shire",
+      "h1. SNIPE",
+      "v3. shire"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 14,
+    "actions": [
+      "h1. canis",
+      "h2. amide",
+      "h3. pagod",
+      "v1. CABAL",
+      "v2. AMATI"
+    ],
+    "final_board": "Current Board:\nCANIS\nAMIDE\nBAGOD\nAT___\nLI___\n\nUnfilled:\nh4. A piano piece: AT___\nh5. A shim; a vessel; a lining: LI___\nv3. A traditional folk or synagogue melody: NIG__\nv4. A UNIX file system structure: IDO__\nv5. A Passover meal: SED__\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An ammonia compound: AMIDE\nv1. A horse: CABAL\nv2. A violin: AMATI\n\nChanged:\nh3. A pagoda; an Indian idol: BAGOD\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 15,
+    "actions": [
+      "h3. ramie",
+      "v1. cadre",
+      "h1. canis",
+      "v2. ARARA",
+      "h2. AINUS"
+    ],
+    "final_board": "Current Board:\nCANIS\nAINUS\nDAMIE\nRR___\nEA___\n\nUnfilled:\nh4. Face down; susceptible: RR___\nh5. An Indian antelope: EA___\nv3. A Greek province; a law; a coin: NNM__\nv4. An ancient British ethnic group: IUI__\nv5. Gloss; luster: SSE__\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An Altaic language: AINUS\nv1. A contingent: CADRE\n\nChanged:\nh3. Ramie, an Asiatic plant yielding a rope fiber: DAMIE\nv2. The Brazilian macaw; an Australian bird: AIARA\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 16,
+    "actions": [
+      "h2. urine",
+      "h1. canis",
+      "h3. CINAR",
+      "h4. craps",
+      "h5. ritzy"
+    ],
+    "final_board": "Current Board:\nCANIS\nURINE\nCINAR\nCRAPS\nRITZY\n\nUnfilled:\nv1. A kerchief: CUCCR\nv2. The Brazilian macaw; an Australian bird: ARIRI\nv3. A New Zealand palm: NINAT\nv4. Unfit; clumsy: INAPZ\nv5. To perceive; wisdom; reason; feeling: SERSY\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Liquid body waste: URINE\nh3. An Asian cape: CINAR\nh4. Defecates; a dice game: CRAPS\nh5. High; high-class; pretentious: RITZY\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 17,
+    "actions": [
+      "h1. canis",
+      "h2. curare"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 18,
+    "actions": [
+      "h1. canis",
+      "v1. CAGED",
+      "h2. ABUTA",
+      "h3. carus",
+      "h4. ESTER"
+    ],
+    "final_board": "Current Board:\nCANIS\nABUTA\nCARUS\nESTER\nD____\n\nUnfilled:\nh5. Tart or sour; like a prostitute: D____\nv2. A performance ring: ABAS_\nv3. Not ever: NURT_\nv4. Unmoving; inactive: ITUE_\nv5. Briny; profane: SASR_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An Indian mallow: ABUTA\nh3. To feast; to carouse; another name for Reval: CARUS\nh4. A pound sterling: ESTER\n\nChanged:\nv1. Poetic \"cursed\"; peevish: CACED\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 19,
+    "actions": [
+      "h2. helix",
+      "v1. chess",
+      "h1. elect",
+      "v2. LEMMA",
+      "h3. emule"
+    ],
+    "final_board": "Current Board:\nELECT\nHELIX\nEMULE\nSM___\nSA___\n\nUnfilled:\nh4. A Passover meal: SM___\nh5. A pound sterling: SA___\nv3. To avoid capture or detection: ELU__\nv4. One who strains; one who runs heavily: CIL__\nv5. To put into action: TXE__\n\nFilled:\nh1. To choose: ELECT\nh2. A spiral, usually three dimensional: HELIX\nh3. To emulate: EMULE\nv2. British dialect for \"them\": LEMMA\n\nChanged:\nv1. A board game; a British river: EHESS\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 2,
+    "actions": [
+      "v1. amish",
+      "h1. crony",
+      "h2. major",
+      "h3. input",
+      "h4. siege"
+    ],
+    "final_board": "Current Board:\nCRONY\nMAJOR\nINPUT\nSIEGE\nH____\n\nUnfilled:\nh5. More healthy; a coin: H____\nv2. A craze: RANI_\nv3. To force; to drive: OJPE_\nv4. To dig out roughly: NOUG_\nv5. On the outside: YRTE_\n\nFilled:\nh1. A male friend: CRONY\nh2. Something big and important: MAJOR\nh3. Things that enter; data given to a computer program: INPUT\nh4. To besiege: SIEGE\n\nChanged:\nv1. A Mennonite sect, named for Jacob Ammann: CMISH\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 20,
+    "actions": [
+      "h1. elect",
+      "h2. helix",
+      "h3. erose",
+      "v1. ETHER",
+      "h4. ETHER"
+    ],
+    "final_board": "Current Board:\nELECT\nTELIX\nHROSE\nETHER\nR____\n\nUnfilled:\nh5. A pound sterling: R____\nv2. A wading bird: LERT_\nv3. To run away together to get married: ELOH_\nv4. Cider; sicer: CISE_\nv5. To put into action: TXER_\n\nFilled:\nh1. To choose: ELECT\nh4. A drinker; a sedative: ETHER\nv1. A board game; a British river: ETHER\n\nChanged:\nh2. A spiral, usually three dimensional: TELIX\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): HROSE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 21,
+    "actions": [
+      "h2. emdem",
+      "v2. organ",
+      "h1. OPTER",
+      "h3. ERECT",
+      "h4. ANAPA"
+    ],
+    "final_board": "Current Board:\nOPTER\nERDEM\nERECT\nANAPA\n_N___\n\nUnfilled:\nh5. Drier; a language: _N___\nv1. A board game; a British river: OEEA_\nv3. An Arab prince: TDEA_\nv4. A century: EECP_\nv5. To come in: RMTA_\n\nFilled:\nh1. To choose: OPTER\nh3. To raise up; to build: ERECT\nh4. An inscribed column; sap system: ANAPA\n\nChanged:\nh2. British dialect for \"them\": ERDEM\nv2. A heart: PRRNN\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 22,
+    "actions": [
+      "h1. elect",
+      "v2. hilar",
+      "h2. split",
+      "v3. EVENT",
+      "h3. olera"
+    ],
+    "final_board": "Current Board:\nEHECT\nSPVIT\nOLERA\n_AN__\n_RT__\n\nUnfilled:\nh4. The minister's house: _AN__\nh5. To change: _RT__\nv1. A quaver: ESO__\nv4. To perceive; wisdom; reason; feeling: CIR__\nv5. To come in: TTA__\n\nFilled:\nh3. Odorous; fragrant: OLERA\nv3. An occurrence: EVENT\n\nChanged:\nh1. To choose: EHECT\nh2. Rent; split: SPVIT\nv2. Pertaining to a hilum: HPLAR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 23,
+    "actions": [
+      "h3. older",
+      "h1. elect",
+      "h2. rowdy",
+      "h5. sneez",
+      "h4. HONSH"
+    ],
+    "final_board": "Current Board:\nELECT\nROWDY\nOLDER\nHONSH\nSNEEZ\n\nUnfilled:\nv1. To sing romantically: EROHS\nv2. The throat; the neck; the windpipe: LOLON\nv3. To provide with some quality or gift: EWDNE\nv4. Stalks; stops: CDESE\nv5. An eagle's nest: TYRHZ\n\nFilled:\nh1. To choose: ELECT\nh2. Boisterous; vociferous: ROWDY\nh3. More aged: OLDER\nh4. A Japanese island: HONSH\nh5. To sneeze: SNEEZ\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 24,
+    "actions": [
+      "h1. elect",
+      "h2. share",
+      "v1. ESTRO",
+      "h3. olent",
+      "h4. yearn"
+    ],
+    "final_board": "Current Board:\nELECT\nSHARE\nOLENT\nYEARN\nO____\n\nUnfilled:\nh5. Prolonged and deep fear: O____\nv2. Pertaining to a hilum, the mark or scar on a seed produced by separation: LHLE_\nv3. To happen: EAEA_\nv4. Dried cassia leaves: CRNR_\nv5. Anatomically toward the inside: TETN_\n\nFilled:\nh1. To choose: ELECT\nh2. Rent; split: SHARE\nh3. Odorous; fragrant: OLENT\nh4. Slang for \"want to\": YEARN\n\nChanged:\nv1. A mob; a Welsh violin: ESOYO\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 25,
+    "actions": [
+      "h1. elect",
+      "v2. hello",
+      "v3. EBLIS",
+      "v4. sieve",
+      "h2. EBIRD"
+    ],
+    "final_board": "Current Board:\nEHEST\nEBIRD\n_LLE_\n_LIV_\n_OSE_\n\nUnfilled:\nh3. A European owl: _LLE_\nh4. To slide; to skulk: _LIV_\nh5. One who uses a hose; a good guy: _OSE_\nv1. To subdue; to crumple; a hidden romantic attraction: EE___\nv5. One who eats: TD___\n\nFilled:\nh2. A coin: EBIRD\n\nChanged:\nh1. To choose: EHEST\nv2. A greeting: HBLLO\nv3. The Islamic name for Satan: EILIS\nv4. To sift: SREVE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 26,
+    "actions": [
+      "h2. etaer",
+      "v1. crush",
+      "h1. cream",
+      "v2. howdy",
+      "h3. EAGLE"
+    ],
+    "final_board": "Current Board:\nCHEAM\nROAER\nEAGLE\nSD___\nHY___\n\nUnfilled:\nh4. To slide; to skulk: SD___\nh5. More healthy; a coin: HY___\nv3. A Babylonian god: EAG__\nv4. To sift: AEL__\nv5. To come in: MRE__\n\nFilled:\nh3. A European owl: EAGLE\n\nChanged:\nh1. To choose: CHEAM\nh2. A Japanese outcast: ROAER\nv1. To subdue; to crumple; a hidden romantic attraction: CRESH\nv2. A greeting: HOADY\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 27,
+    "actions": [
+      "h2. redox",
+      "v3. edema",
+      "h1. elect",
+      "h5. aorta",
+      "h3. ABELM"
+    ],
+    "final_board": "Current Board:\nELECT\nREDOX\nABELM\n__M__\nAORTA\n\nUnfilled:\nh4. The blue titmouse: __M__\nv1. A crwth: ERA_A\nv2. To praise; to worship: LEB_O\nv4. An underwater detection system (Sound Navigation Ranging): COL_T\nv5. To praise; to raise higher: TXM_A\n\nFilled:\nh1. To choose: ELECT\nh2. An oxidation/reduction reaction: REDOX\nh3. An Indian mallow: ABELM\nh5. A center; a body organ: AORTA\n\nChanged:\nv3. Excessive fluid accumulation: EDEMR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 28,
+    "actions": [
+      "h3. looey",
+      "v1. cloak",
+      "h2. lurer",
+      "v2. QUOLL",
+      "h1. CLING"
+    ],
+    "final_board": "Current Board:\nCLING\nLURER\nOOOEY\nAL___\nKL___\n\nUnfilled:\nh4. To wane or decrease: AL___\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KL___\nv3. To exclude: IRO__\nv4. An interjection expressing exasperation; nonsense: NEE__\nv5. To salute: GRY__\n\nFilled:\nh1. To hold onto: CLING\nh2. One who snares birds with birdlime; a hanger-on: LURER\nv1. A loose outer coat; a cover or pretext: CLOAK\n\nChanged:\nh3. Shaded or dyed; a 3 person card game using 40 cards: OOOEY\nv2. An African tree: LUOLL\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 29,
+    "actions": [
+      "h3. flush",
+      "v1. cloak",
+      "h1. clasp",
+      "h2. LURCH",
+      "h4. APPAL"
+    ],
+    "final_board": "Current Board:\nCLASP\nLURCH\nOLUSH\nAPPAL\nK____\n\nUnfilled:\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: K____\nv2. A semitone: LULP_\nv3. To exclude: ARUP_\nv4. An interjection expressing exasperation; nonsense: SCSA_\nv5. To salute: PHHL_\n\nFilled:\nh1. To hold onto: CLASP\nh2. One who snares birds with birdlime; a hanger-on: LURCH\nh4. To subdue; to terrify; a Central American timber tree: APPAL\nv1. A loose outer coat; a cover or pretext: CLOAK\n\nChanged:\nh3. Shaded or dyed; a 3 person card game using 40 cards: OLUSH\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 3,
+    "actions": [
+      "h1. buddy",
+      "h2. BLEED",
+      "v1. BBLYS",
+      "h3. anion",
+      "h4. YEAST"
+    ],
+    "final_board": "Current Board:\nBUDDY\nBLEED\nANION\nYEAST\nS____\n\nUnfilled:\nh5. A solitary person: S____\nv2. A Zen question and answer method; extreme: ULNE_\nv3. Ancient Troy: DEIA_\nv4. A water fowl; a pinch to the rear; tailor's iron: DEOS_\nv5. A possesser: YDNT_\n\nFilled:\nh1. A male friend: BUDDY\nh2. To baptize: BLEED\nh3. A negative ion: ANION\nh4. A sugar: YEAST\n\nChanged:\nv1. Benefit; result: BBAYS\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 30,
+    "actions": [
+      "v3. debar",
+      "v1. croak",
+      "h1. CADRE",
+      "h2. RIVET",
+      "h3. OMBRE"
+    ],
+    "final_board": "Current Board:\nCADRE\nRIVET\nOMBRE\nA_A__\nK_R__\n\nUnfilled:\nh4. To subdue; to terrify; a Central American timber tree: A_A__\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: K_R__\nv2. A semitone: AIM__\nv4. An interjection expressing exasperation; nonsense: RER__\nv5. To salute: ETE__\n\nFilled:\nh1. To hold onto: CADRE\nh2. An enlarged tool: RIVET\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nv1. A frog sound; to die: CROAK\n\nChanged:\nv3. To exclude: DVBAR\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 4,
+    "actions": [
+      "h3. istar",
+      "h1. drain",
+      "v1. DWINE",
+      "v2. RESIT",
+      "h2. retie"
+    ],
+    "final_board": "Current Board:\nDRAIN\nRETIE\nISTAR\nNI___\nET___\n\nUnfilled:\nh4. One who strains; one who runs heavily: NI___\nh5. Eternal, everlasting: ET___\nv3. To intend; to plan; to devise; a nettle; to guess: ATT__\nv4. An igniter; a shooter: IIA__\nv5. To crave: NER__\n\nFilled:\nh1. To dry up: DRAIN\nh2. To tie again: RETIE\nh3. The Istrian peninsula: ISTAR\nv2. To sit again: RESIT\n\nChanged:\nv1. To ascend; to get up; to come up: DRINE\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 5,
+    "actions": [
+      "h1. seeps",
+      "v1. arise",
+      "h2. RIVAL",
+      "h3. IGBOS",
+      "h4. SEDER"
+    ],
+    "final_board": "Current Board:\nAEEPS\nRIVAL\nIGBOS\nSEDER\nE____\n\nUnfilled:\nh5. Eternal, everlasting: E____\nv2. To regain: EIGE_\nv3. To elude: EVBD_\nv4. One who files: PAOE_\nv5. To crave: SLSR_\n\nFilled:\nh2. To outdo; to bandy words: RIVAL\nh3. A Yoruba-speaking people: IGBOS\nh4. A Passover meal: SEDER\nv1. To ascend; to get up; to come up: ARISE\n\nChanged:\nh1. To dry up: AEEPS\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 6,
+    "actions": [
+      "h3. anana",
+      "v1. droop",
+      "h1. DRYUP",
+      "h2. value",
+      "h4. loper"
+    ],
+    "final_board": "Current Board:\nDRYUP\nVALUE\nONANA\nLOPER\nP____\n\nUnfilled:\nh5. Eternal, everlasting: P____\nv2. A block for polishing marble or other rocks: RANO_\nv3. To run away together to get married: YLAP_\nv4. One who fumes: UUNE_\nv5. To crave: PEAR_\n\nFilled:\nh1. To dry up: DRYUP\nh2. Worth; usefulness; desirability: VALUE\nh4. One who lopes: LOPER\n\nChanged:\nh3. A South American boa constrictor: ONANA\nv1. To let fall: DVOLP\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 7,
+    "actions": [
+      "h2. shell",
+      "h1. shuns",
+      "h3. INULA",
+      "h4. sarin",
+      "h5. ELECT"
+    ],
+    "final_board": "Current Board:\nSHUNS\nSHELL\nINULA\nSARIN\nELECT\n\nUnfilled:\nv1. To advise: SSISE\nv2. A synthetic textile fiber: HHNAL\nv3. To inure; to harden: UEURE\nv4. A memento; a souvenir: NLLIC\nv5. To hawk; to peddle; odd jobs: SLANT\n\nFilled:\nh1. To avoid; to turn away: SHUNS\nh2. A machine to separate peas from their pods and the pea vine: SHELL\nh3. An herb, the elecampane plant: INULA\nh4. A nerve gas: SARIN\nh5. To choose; a person chosen or destined to go to Heaven: ELECT\n\nChanged:\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 8,
+    "actions": [
+      "h2. waxer",
+      "v1. awful",
+      "h3. float",
+      "h4. UJAMA",
+      "v2. VALVE"
+    ],
+    "final_board": "Current Board:\nAV___\nWAXER\nFLOAT\nUVAMA\nLE___\n\nUnfilled:\nh1. To avoid; to turn away: AV___\nh5. To become late; to cause to become late: LE___\nv3. A bishop's permission for a priest to leave a diocese: _XOA_\nv4. A cigarette: _EAM_\nv5. Wooden; wooden dishes and utensils: _RTA_\n\nFilled:\nh2. One who waxes: WAXER\nh3. To float; to swim: FLOAT\nv1. Terrible; very: AWFUL\nv2. An anatomical valve: VALVE\n\nChanged:\nh4. Grape jam: UVAMA\n"
+  },
+  {
+    "repeat": 2,
+    "steps": 5,
+    "puzzle": 9,
+    "actions": [
+      "h2. mimic",
+      "h5. yenta",
+      "h1. bopry",
+      "h3. caird",
+      "h4. novel"
+    ],
+    "final_board": "Current Board:\nBOPRY\nMIMIC\nCAIRD\nNOVEL\nYENTA\n\nUnfilled:\nv1. To fasten; to hold: BMCNY\nv2. To move: OIAOE\nv3. A violent Central Asian blizzard: PMIVN\nv4. Odorous; fragrant: RIRET\nv5. A light Greek shield; an apothecium: YCDLA\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BOPRY\nh2. To emulate: MIMIC\nh3. A worthless person: CAIRD\nh4. Culturally or stylistically new: NOVEL\nh5. A talkative, gossipy person: YENTA\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 1,
+    "actions": [
+      "h1. todoo",
+      "v1. aware",
+      "h2. wirer",
+      "h3. rouse",
+      "h4. rouse",
+      "v2. radio",
+      "v3. ERODE",
+      "v5. DROWN",
+      "h5. EXECUTE"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 10,
+    "actions": [
+      "h3. friar",
+      "v1. buffo",
+      "h1. BEBOP",
+      "v2. error",
+      "h2. Urena",
+      "h4. adopt",
+      "v3. BEING",
+      "v4. onaga",
+      "h5. ORGAT",
+      "v5. PARTY"
+    ],
+    "final_board": "Current Board:\nBEBOP\nURENA\nFRIAR\nADNGT\nORGAY\n\nUnfilled:\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: BEBOP\nh2. An Indian mallow: URENA\nh3. A religious brother: FRIAR\nv3. Existence; a creature: BEING\nv4. The ruby snapper fish: ONAGA\nv5. Apparel; an egg preparation used to clarify wine: PARTY\n\nChanged:\nh4. To take; to receive: ADNGT\nh5. Argal; crude tartar: ORGAY\nv1. A comic actor or operatic clown: BUFAO\nv2. A mistake: ERRDR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 11,
+    "actions": [
+      "h1. bebop",
+      "v1. build",
+      "h2. UROMA",
+      "v2. ERROR",
+      "h3. irid-"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "h2. ogive",
+      "v1. BOCCE",
+      "h3. calif",
+      "h4. cacao",
+      "h5. EATER",
+      "v2. IGBOS",
+      "v3. PILOT",
+      "v4. evade",
+      "v5. DEFER"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCBLAF\nCOODE\nESTER\n\nUnfilled:\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nv1. An Italian lawn game played with wooden balls: BOCCE\nv2. A Yoruba-speaking people: IGBOS\nv3. A guide; a captain: PILOT\nv4. To avoid: EVADE\nv5. To delay; to put off: DEFER\n\nChanged:\nh3. A caliph: CBLAF\nh4. A plant related to the burdock: COODE\nh5. One who eats: ESTER\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 13,
+    "actions": [
+      "h1. biped",
+      "v1. buyer",
+      "v2. irade",
+      "v3. shire",
+      "h2. URAEI",
+      "v4. ELECT",
+      "h3. EAGLE",
+      "h4. EDRCT",
+      "v5. dirty",
+      "h5. inert"
+    ],
+    "final_board": "Current Board:\nBISED\nURALI\nEAGLR\nEDRCT\nINERT\n\nUnfilled:\n\nFilled:\nh4. Something that is drawn forth: EDRCT\nh5. Indolent; restive: INERT\n\nChanged:\nh1. A two-legged creature: BISED\nh2. Oorali, a poison used on arrows: URALI\nh3. A northern bird; a jager, a light infantryman: EAGLR\nv1. A purchaser: BUEEI\nv2. A Turkish written decree: IRADN\nv3. A county division: SAGRE\nv4. To choose; a person chosen or destined to go to Heaven: ELLCR\nv5. Soiled; improper: DIRTT\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 14,
+    "actions": [
+      "h1. canis",
+      "h2. amide",
+      "v1. CABAL",
+      "h3. BASIL",
+      "h4. \u00e9tude",
+      "v2. AMATI",
+      "v3. nigun",
+      "v5. SEDER",
+      "h5. LINER",
+      "h4. saute"
+    ],
+    "final_board": "Current Board:\n_AN_S\n_MI_E\n_AG_D\nSAUTE\nLINER\n\nUnfilled:\nv1. : ___SL\nv4. A UNIX file system structure: ___TE\n\nFilled:\nh1. The genus to which the dog and wolf belong: _AN_S\nh2. An ammonia compound: _MI_E\nh3. A pagoda; an Indian idol: _AG_D\nh4. : SAUTE\nh5. A shim; a vessel; a lining: LINER\nv3. A traditional folk or synagogue melody: NIGUN\nv5. A Passover meal: SEDER\n\nChanged:\nv2. A violin: AMAAI\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 15,
+    "actions": [
+      "h3. ramie",
+      "h1. canis",
+      "v1. CRUSE",
+      "v2. ARARA",
+      "h2. URALI",
+      "h4. TIMID",
+      "h5. ELAND",
+      "v3. NAMMA",
+      "v4. ILIIN",
+      "v5. SIEDD"
+    ],
+    "final_board": "Current Board:\nCANIS\nURALI\nUAMIE\nTIMID\nELAND\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An Altaic language: URALI\nh4. Face down; susceptible: TIMID\nh5. An Indian antelope: ELAND\nv3. A Greek province; a law; a coin: NAMMA\nv4. An ancient British ethnic group: ILIIN\nv5. Gloss; luster: SIEDD\n\nChanged:\nh3. Ramie, an Asiatic plant yielding a rope fiber: UAMIE\nv1. A contingent: CUUTE\nv2. The Brazilian macaw; an Australian bird: ARAIL\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 16,
+    "actions": [
+      "h2. urine",
+      "v1. UNION",
+      "v2. areca",
+      "h1. CANIS",
+      "h3. IEMBA",
+      "h4. DICED",
+      "v3. NIKAU",
+      "v4. INEPT",
+      "h5. HAUTE",
+      "v5. sense"
+    ],
+    "final_board": "Current Board:\nCANIS\nNRINE\nIEKEN\nDIAPS\nHAUTE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh5. High; high-class; pretentious: HAUTE\nv3. A New Zealand palm: NIKAU\nv4. Unfit; clumsy: INEPT\nv5. To perceive; wisdom; reason; feeling: SENSE\n\nChanged:\nh2. Liquid body waste: NRINE\nh3. An Asian cape: IEKEN\nh4. Defecates; a dice game: DIAPS\nv1. A kerchief: CNIDH\nv2. The Brazilian macaw; an Australian bird: AREIA\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 17,
+    "actions": [
+      "v1. curst",
+      "h2. urari",
+      "h1. canis",
+      "h3. romic",
+      "h4. screw",
+      "h5. thine",
+      "v2. AROCH",
+      "v3. NAMOI",
+      "v4. IRIEN",
+      "v5. SICWE"
+    ],
+    "final_board": "Current Board:\nCANIS\nURARI\nROMIC\nSCOEW\nTHINE\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Oorali, a poison used on arrows: URARI\nh3. A phonetic notation: ROMIC\nh5. Belonging to you: THINE\nv1. Poetic \"cursed\"; peevish: CURST\nv2. An old fashioned term for various medical remedies: AROCH\nv3. An Australian river: NAMOI\nv4. Ancient Troy: IRIEN\nv5. A shekel: SICWE\n\nChanged:\nh4. A small wheel or spindle; to transfer to a peripheral device: SCOEW\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 18,
+    "actions": [
+      "h1. canis",
+      "v1. curst",
+      "v2. arena",
+      "v3. never",
+      "h2. ABUTA",
+      "h3. REVEL",
+      "h4. SNIDE",
+      "h5. TARTY",
+      "v4. INERT",
+      "v5. SALTY"
+    ],
+    "final_board": "Current Board:\nCANIS\nABUNA\nREVEL\nSNIRT\nTARTY\n\nUnfilled:\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh3. To feast; to carouse; another name for Reval: REVEL\nh5. Tart or sour; like a prostitute: TARTY\nv4. Unmoving; inactive: INERT\nv5. Briny; profane: SALTY\n\nChanged:\nh2. An Indian mallow: ABUNA\nh4. A pound sterling: SNIRT\nv1. Poetic \"cursed\"; peevish: CARST\nv2. A performance ring: ABENA\nv3. Not ever: NUVIR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 19,
+    "actions": [
+      "h2. helix",
+      "v1. chess",
+      "h1. elect",
+      "v2. LEMME",
+      "h3. emule",
+      "h4. SEDER",
+      "h5. STERL",
+      "v3. ELUDE",
+      "v4. CILER",
+      "v5. EXERT"
+    ],
+    "final_board": "Current Board:\nELECE\nHELIX\nEMULE\nSEDER\nSTERT\n\nUnfilled:\n\nFilled:\nh2. A spiral, usually three dimensional: HELIX\nh3. To emulate: EMULE\nh4. A Passover meal: SEDER\nv3. To avoid capture or detection: ELUDE\nv4. One who strains; one who runs heavily: CILER\nv5. To put into action: EXERT\n\nChanged:\nh1. To choose: ELECE\nh5. A pound sterling: STERT\nv1. A board game; a British river: EHESS\nv2. British dialect for \"them\": LEMET\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 2,
+    "actions": [
+      "h1. buddy",
+      "v1. Amish",
+      "h2. major",
+      "h3. input",
+      "h4. siege",
+      "h5. healt",
+      "v2. MANIA",
+      "v3. drive",
+      "v4. DOUGL",
+      "v5. OUTER"
+    ],
+    "final_board": "Current Board:\nAMDDO\nMAROU\nINIUT\nSIVGE\nHAELR\n\nUnfilled:\n\nFilled:\nv1. A Mennonite sect, named for Jacob Ammann: AMISH\nv2. A craze: MANIA\nv3. To force; to drive: DRIVE\nv4. To dig out roughly: DOUGL\nv5. On the outside: OUTER\n\nChanged:\nh1. A male friend: AMDDO\nh2. Something big and important: MAROU\nh3. Things that enter; data given to a computer program: INIUT\nh4. To besiege: SIVGE\nh5. More healthy; a coin: HAELR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 20,
+    "actions": [
+      "h1. elect",
+      "v2. egret",
+      "h2. HELIX",
+      "h3. EROSE",
+      "h4. ETHER",
+      "h5. STONE",
+      "v1. EHEES",
+      "v3. elope",
+      "v4. CISEN",
+      "v5. EXERT"
+    ],
+    "final_board": "Current Board:\nEEECE\nHELIX\nEROSE\nETPER\nSTENT\n\nUnfilled:\n\nFilled:\nh2. A spiral, usually three dimensional: HELIX\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): EROSE\nv1. A board game; a British river: EHEES\nv3. To run away together to get married: ELOPE\nv4. Cider; sicer: CISEN\nv5. To put into action: EXERT\n\nChanged:\nh1. To choose: EEECE\nh4. A drinker; a sedative: ETPER\nh5. A pound sterling: STENT\nv2. A wading bird: EERTT\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 21,
+    "actions": [
+      "v2. heart",
+      "h1. heart",
+      "v2. elect"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 22,
+    "actions": [
+      "h3. musky",
+      "h1. elect",
+      "h2. split",
+      "h4. manse",
+      "h5. alter",
+      "v1. EMMAS",
+      "v2. HILAR",
+      "v3. EVENT",
+      "v4. CIVIC",
+      "v5. ENTER"
+    ],
+    "final_board": "Current Board:\nEHECE\nMIVIN\nMLEVT\nAANIE\nSRTCR\n\nUnfilled:\n\nFilled:\nv1. A quaver: EMMAS\nv2. Pertaining to a hilum: HILAR\nv3. An occurrence: EVENT\nv4. To perceive; wisdom; reason; feeling: CIVIC\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: EHECE\nh2. Rent; split: MIVIN\nh3. Odorous; fragrant: MLEVT\nh4. The minister's house: AANIE\nh5. To change: SRTCR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 23,
+    "actions": [
+      "h1. elect",
+      "h2. noisy",
+      "h3. older",
+      "v1. ENOIS",
+      "h4. IWOJI",
+      "v2. LOLW_"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 24,
+    "actions": [
+      "h5. dread",
+      "v1. crowd",
+      "h2. share",
+      "h1. cower",
+      "h3. odory",
+      "h4. wanna",
+      "v2. HILAR",
+      "v3. occur",
+      "v4. ERRNA",
+      "v5. INNER"
+    ],
+    "final_board": "Current Board:\nCHOEI\nSICRN\nOLCRN\nWAUNE\nDRRAR\n\nUnfilled:\n\nFilled:\nv2. Pertaining to a hilum, the mark or scar on a seed produced by separation: HILAR\nv3. To happen: OCCUR\nv4. Dried cassia leaves: ERRNA\nv5. Anatomically toward the inside: INNER\n\nChanged:\nh1. To choose: CHOEI\nh2. Rent; split: SICRN\nh3. Odorous; fragrant: OLCRN\nh4. Slang for \"want to\": WAUNE\nh5. Prolonged and deep fear: DRRAR\nv1. A mob; a Welsh violin: CSOWD\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 25,
+    "actions": [
+      "h3. strig",
+      "v1. crush",
+      "h2. ROUSE",
+      "v2. HOTEL",
+      "h1. CHOSE",
+      "h4. SLIDE",
+      "v3. SHAIT",
+      "v4. sieve",
+      "h5. HITEL",
+      "v5. EAGLE"
+    ],
+    "final_board": "Current Board:\nCHSSE\nROHIA\nUTAEG\nSLIVL\nHITEE\n\nUnfilled:\n\nFilled:\nv1. To subdue; to crumple; a hidden romantic attraction: CRUSH\nv3. The Islamic name for Satan: SHAIT\nv4. To sift: SIEVE\nv5. One who eats: EAGLE\n\nChanged:\nh1. To choose: CHSSE\nh2. A coin: ROHIA\nh3. A European owl: UTAEG\nh4. To slide; to skulk: SLIVL\nh5. One who uses a hose; a good guy: HITEE\nv2. A greeting: HOTLI\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 26,
+    "actions": [
+      "h1. elect",
+      "h2. exile",
+      "h5. tonic",
+      "v1. CRUSH",
+      "h3. ULULA",
+      "v2. HELLO",
+      "h4. SLIDE",
+      "v3. EIUIN",
+      "v4. CULLS",
+      "v5. enter"
+    ],
+    "final_board": "Current Board:\nCHECE\nREIUN\nULULT\nSLILE\nHONSR\n\nUnfilled:\n\nFilled:\nv1. To subdue; to crumple; a hidden romantic attraction: CRUSH\nv2. A greeting: HELLO\nv3. A Babylonian god: EIUIN\nv4. To sift: CULLS\nv5. To come in: ENTER\n\nChanged:\nh1. To choose: CHECE\nh2. A Japanese outcast: REIUN\nh3. A European owl: ULULT\nh4. To slide; to skulk: SLILE\nh5. More healthy; a coin: HONSR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 27,
+    "actions": [
+      "h1. elect",
+      "v4. sonar",
+      "h2. redox",
+      "h3. ABMHO",
+      "h4. AZURE",
+      "h5. heart",
+      "v1. crwth",
+      "v2. BLESS",
+      "v3. edema",
+      "v5. EXALT"
+    ],
+    "final_board": "Current Board:\nCBESE\nRLDOX\nWEEHA\nTSMRL\nHSART\n\nUnfilled:\n\nFilled:\nv1. A crwth: CRWTH\nv2. To praise; to worship: BLESS\nv3. Excessive fluid accumulation: EDEMA\nv5. To praise; to raise higher: EXALT\n\nChanged:\nh1. To choose: CBESE\nh2. An oxidation/reduction reaction: RLDOX\nh3. An Indian mallow: WEEHA\nh4. The blue titmouse: TSMRL\nh5. A center; a body organ: HSART\nv4. An underwater detection system (Sound Navigation Ranging): SOHRR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 28,
+    "actions": [
+      "h1. clasp",
+      "h2. snare",
+      "v1. cloak",
+      "h3. ombre",
+      "h4. abate",
+      "h5. KARST",
+      "v2. LIMBA",
+      "v3. AABAR",
+      "v4. ROTTS",
+      "v5. SALUT"
+    ],
+    "final_board": "Current Board:\nCLARS\nLIAOA\nOMBTL\nABATU\nKARST\n\nUnfilled:\n\nFilled:\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\nv1. A loose outer coat; a cover or pretext: CLOAK\nv2. An African tree: LIMBA\nv3. To exclude: AABAR\nv4. An interjection expressing exasperation; nonsense: ROTTS\nv5. To salute: SALUT\n\nChanged:\nh1. To hold onto: CLARS\nh2. One who snares birds with birdlime; a hanger-on: LIAOA\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBTL\nh4. To wane or decrease: ABATU\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 29,
+    "actions": [
+      "v3. debar",
+      "h1. HEDGE",
+      "h2. snare",
+      "h3. bower",
+      "h4. daunt",
+      "v1. HABIT",
+      "h5. KARST",
+      "v2. ENOAA",
+      "v4. GRENS",
+      "v5. EERIE"
+    ],
+    "final_board": "Current Board:\nHEDGE\nANARE\nBOWER\nIAUNI\nKARSE\n\nUnfilled:\n\nFilled:\nh1. To hold onto: HEDGE\nh3. Shaded or dyed; a 3 person card game using 40 cards: BOWER\nv2. A semitone: ENOAA\nv4. An interjection expressing exasperation; nonsense: GRENS\nv5. To salute: EERIE\n\nChanged:\nh2. One who snares birds with birdlime; a hanger-on: ANARE\nh4. To subdue; to terrify; a Central American timber tree: IAUNI\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARSE\nv1. A loose outer coat; a cover or pretext: HABIK\nv3. To exclude: DAWUR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 3,
+    "actions": [
+      "h1. buddy",
+      "h2. BAPTI",
+      "h3. anion",
+      "h4. sweet",
+      "h5. LONER",
+      "v1. BASIS",
+      "v2. KOANS",
+      "v3. ILION",
+      "v4. EIDER",
+      "v5. OWNER"
+    ],
+    "final_board": "Current Board:\nBKIEO\nAOLIW\nSAIDN\nINOEE\nSSNRR\n\nUnfilled:\n\nFilled:\nv1. Benefit; result: BASIS\nv2. A Zen question and answer method; extreme: KOANS\nv3. Ancient Troy: ILION\nv4. A water fowl; a pinch to the rear; tailor's iron: EIDER\nv5. A possesser: OWNER\n\nChanged:\nh1. A male friend: BKIEO\nh2. To baptize: AOLIW\nh3. A negative ion: SAIDN\nh4. A sugar: INOEE\nh5. A solitary person: SSNRR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 30,
+    "actions": [
+      "v3. debar",
+      "v1. croak",
+      "h1. clasp",
+      "h2. RAKED",
+      "h3. OMBRE",
+      "h4. AVERY",
+      "h5. KARST",
+      "v2. LAPSE",
+      "v4. SERRS",
+      "v5. SALUT"
+    ],
+    "final_board": "Current Board:\nCLASS\nRAKEA\nOPBRL\nASERU\nKERST\n\nUnfilled:\n\nFilled:\nv1. A frog sound; to die: CROAK\nv2. A semitone: LAPSE\nv4. An interjection expressing exasperation; nonsense: SERRS\nv5. To salute: SALUT\n\nChanged:\nh1. To hold onto: CLASS\nh2. An enlarged tool: RAKEA\nh3. Shaded or dyed; a 3 person card game using 40 cards: OPBRL\nh4. To subdue; to terrify; a Central American timber tree: ASERU\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KERST\nv3. To exclude: AKBER\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 4,
+    "actions": [
+      "h5. eterne"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 5,
+    "actions": [
+      "h1. seeps",
+      "h2. outdo",
+      "h3. yoruba"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 6,
+    "actions": [
+      "h1. drain",
+      "v2. ROUGE",
+      "h2. WORTH",
+      "h3. anura",
+      "h4. loper",
+      "v1. DWALF",
+      "v3. elope",
+      "v4. IRATE",
+      "v5. yearn",
+      "h5. ETERNAL"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 7,
+    "actions": [
+      "v5. stint",
+      "h1. shunt",
+      "h2. TONTO",
+      "h3. INULI",
+      "h4. SARIN",
+      "h5. ELECT",
+      "v1. STISE",
+      "v2. HONAL",
+      "v3. ENURE",
+      "v4. relic"
+    ],
+    "final_board": "Current Board:\nSHERT\nTONEO\nINULI\nSARIN\nELECT\n\nUnfilled:\n\nFilled:\nh3. An herb, the elecampane plant: INULI\nh4. A nerve gas: SARIN\nh5. To choose; a person chosen or destined to go to Heaven: ELECT\nv1. To advise: STISE\nv2. A synthetic textile fiber: HONAL\nv3. To inure; to harden: ENURE\nv4. A memento; a souvenir: RELIC\n\nChanged:\nh1. To avoid; to turn away: SHERT\nh2. A machine to separate peas from their pods and the pea vine: TONEO\nv5. To hawk; to peddle; odd jobs: TOINT\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 8,
+    "actions": [
+      "h1. evade",
+      "h2. waxer",
+      "h3. float",
+      "v5. ERTWO",
+      "h4. GUAVA",
+      "h5. tardy",
+      "v1. awful",
+      "v2. VALUA",
+      "v3. AXOAR",
+      "v4. DAVYD"
+    ],
+    "final_board": "Current Board:\nAVADE\nWAXAR\nFLOVT\nUUAYA\nLARDY\n\nUnfilled:\n\nFilled:\nv1. Terrible; very: AWFUL\nv2. An anatomical valve: VALUA\nv3. A bishop's permission for a priest to leave a diocese: AXOAR\nv4. A cigarette: DAVYD\n\nChanged:\nh1. To avoid; to turn away: AVADE\nh2. One who waxes: WAXAR\nh3. To float; to swim: FLOVT\nh4. Grape jam: UUAYA\nh5. To become late; to cause to become late: LARDY\nv5. Wooden; wooden dishes and utensils: ERTAY\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 10,
+    "puzzle": 9,
+    "actions": [
+      "h1. avant",
+      "v2. shift",
+      "v3. abash",
+      "h2. IMHBE",
+      "h3. skank",
+      "h4. FRESH",
+      "v1. AISLE",
+      "h5. ETHIC",
+      "v4. OLENT",
+      "v5. TEKHC"
+    ],
+    "final_board": "Current Board:\nASAOT\nIMHLE\nSKAEK\nLRENH\nETHTC\n\nUnfilled:\n\nFilled:\nv1. To fasten; to hold: AISLE\nv4. Odorous; fragrant: OLENT\nv5. A light Greek shield; an apothecium: TEKHC\n\nChanged:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: ASAOT\nh2. To emulate: IMHLE\nh3. A worthless person: SKAEK\nh4. Culturally or stylistically new: LRENH\nh5. A talkative, gossipy person: ETHTC\nv2. To move: SMKRT\nv3. A violent Central Asian blizzard: AHAEH\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 1,
+    "actions": [
+      "h1. todoo",
+      "h2. timer",
+      "h3. rouse",
+      "v4. NEVER",
+      "h4. AWOKE"
+    ],
+    "final_board": "Current Board:\nTODNO\nTIMER\nROUVE\nAWOKE\n___R_\n\nUnfilled:\nh5. To put into action: ___R_\nv1. Mindful; conscious: TTRA_\nv2. A gadget: OIOW_\nv3. Notched or uneven, as if gnawed away (cognate with \"erode\"): DMUO_\nv5. Drenched; drowned: OREE_\n\nFilled:\nh2. One who wires: TIMER\nh4. Ascended; awakened: AWOKE\n\nChanged:\nh1. An agendum; something to be done: TODNO\nh3. To stir up; to remove from office: ROUVE\nv4. Not ever: NEVKR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 10,
+    "actions": [
+      "h3. friar",
+      "h1. modal",
+      "v1. MOPER",
+      "h2. okras",
+      "h4. adopt"
+    ],
+    "final_board": "Current Board:\nMODAL\nOKRAS\nPRIAR\nADOPT\nR____\n\nUnfilled:\nh5. Argal; crude tartar: R____\nv2. A mistake: OKRD_\nv3. Existence; a creature: DRIO_\nv4. The ruby snapper fish: AAAP_\nv5. Apparel; an egg preparation used to clarify wine: LSRT_\n\nFilled:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: MODAL\nh2. An Indian mallow: OKRAS\nh4. To take; to receive: ADOPT\n\nChanged:\nh3. A religious brother: PRIAR\nv1. A comic actor or operatic clown: MOPAR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 11,
+    "actions": [
+      "h1. modal",
+      "v1. build",
+      "h2. okara",
+      "v2. ERROR",
+      "h3. iridal"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 12,
+    "actions": [
+      "h1. biped",
+      "v1. bocce",
+      "h2. ogive",
+      "h3. calif",
+      "h4. cacao"
+    ],
+    "final_board": "Current Board:\nBIPED\nOGIVE\nCALIF\nCACAO\nE____\n\nUnfilled:\nh5. One who eats: E____\nv2. A Yoruba-speaking people: IGAA_\nv3. A guide; a captain: PILC_\nv4. To avoid: EVIA_\nv5. To delay; to put off: DEFO_\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. A pointed arch: OGIVE\nh3. A caliph: CALIF\nh4. A plant related to the burdock: CACAO\nv1. An Italian lawn game played with wooden balls: BOCCE\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 13,
+    "actions": [
+      "v1. buyer",
+      "h2. urari",
+      "h1. biped",
+      "v2. IRADE",
+      "h3. YAGER"
+    ],
+    "final_board": "Current Board:\nBIPED\nURARI\nYAGER\nED___\nRE___\n\nUnfilled:\nh4. Something that is drawn forth: ED___\nh5. Indolent; restive: RE___\nv3. A county division: PAG__\nv4. To choose; a person chosen or destined to go to Heaven: ERE__\nv5. Soiled; improper: DIR__\n\nFilled:\nh1. A two-legged creature: BIPED\nh2. Oorali, a poison used on arrows: URARI\nh3. A northern bird; a jager, a light infantryman: YAGER\nv1. A purchaser: BUYER\nv2. A Turkish written decree: IRADE\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 14,
+    "actions": [
+      "h2. amide",
+      "h1. canis",
+      "h3. pagod",
+      "h4. etude",
+      "v1. CAPER"
+    ],
+    "final_board": "Current Board:\nCANIS\nAMIDE\nPAGOD\nETUDE\nR____\n\nUnfilled:\nh5. A shim; a vessel; a lining: R____\nv2. A violin: AMAT_\nv3. A traditional folk or synagogue melody: NIGU_\nv4. A UNIX file system structure: IDOD_\nv5. A Passover meal: SEDE_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An ammonia compound: AMIDE\nh3. A pagoda; an Indian idol: PAGOD\nh4. A piano piece: ETUDE\nv1. A horse: CAPER\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 15,
+    "actions": [
+      "h1. canis",
+      "h2. turki",
+      "h3. ramie",
+      "h4. prone",
+      "Let's look at the unfilled clues and the current board:\n\n**Current Board:**\n```\nC A N I S\nT U R K I\nR A M I E\nP R O N E\n_ _ _ _ _\n```\n\n**Unfilled:**\n- **h5**: An Indian antelope: `_____`\n- **v1**: A contingent: `CTRP_` \u2014 but the first letter is C (from h1), second is T (h2), third is R (h3), fourth is P (h4), fifth is unknown (from h5). So v1 is C T R P _.\n- **v2**: The Brazilian macaw; an Australian bird: `AUAR_` \u2014 A (h1), U (h2), A (h3), R (h4), unknown.\n- **v3**: A Greek province; a law; a coin: `NRMO_` \u2014 N (h1), R (h2), M (h3), O (h4), unknown.\n- **v4**: An ancient British ethnic group: `IKIN_` \u2014 I (h1), K (h2), I (h3), N (h4), unknown.\n- **v5**: Gloss; luster: `SIEE_` \u2014 S (h1), I (h2), E (h3), E (h4), unknown.\n\n---\n\n**h5** is \"An Indian antelope\" \u2014 5 letters. Common answer: **NILGA** (nilgai), but that's 6 letters. Another: **SASIN**? Not common. \"Blackbuck\" is 9. The Indian antelope is \"nilgai\" (6). But 5 letters? Could be \"chinkara\" is 8. Maybe \"chiru\" (5) \u2014 the Tibetan antelope, but not exactly Indian. Or \"serow\" is not antelope. Wait \u2014 \"Indian antelope\" 5 letters: **\"nilgai\"** won't fit. Could be **\"blackbuck\"** no. What about **\"chousingha\"** (four-horned antelope) \u2014 too long. Maybe they mean **\"sasin\"** \u2014 the Indian blackbuck is sometimes called sasin? Actually \"sasin\" is a blackbuck (Antilope cervicapra). Yes \u2014 sasin is 5 letters."
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 16,
+    "actions": [
+      "h2. urine",
+      "h1. canis",
+      "h3. rasen",
+      "h4. craps",
+      "h5. posh"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 17,
+    "actions": [
+      "h1. canis",
+      "h2. urari",
+      "h3. phone",
+      "h4. wheel",
+      "h5. yours"
+    ],
+    "final_board": "Current Board:\nCANIS\nURARI\nPHONE\nWHEEL\nYOURS\n\nUnfilled:\nv1. Poetic \"cursed\"; peevish: CUPWY\nv2. An old fashioned term for various medical remedies: ARHHO\nv3. An Australian river: NAOEU\nv4. Ancient Troy: IRNER\nv5. A shekel: SIELS\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. Oorali, a poison used on arrows: URARI\nh3. A phonetic notation: PHONE\nh4. A small wheel or spindle; to transfer to a peripheral device: WHEEL\nh5. Belonging to you: YOURS\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 18,
+    "actions": [
+      "h1. canis",
+      "v1. CAGED",
+      "h2. ABUTA",
+      "h3. REVEL",
+      "h4. EAGER"
+    ],
+    "final_board": "Current Board:\nCANIS\nABUTA\nREVEL\nEAGER\nD____\n\nUnfilled:\nh5. Tart or sour; like a prostitute: D____\nv2. A performance ring: ABEA_\nv3. Not ever: NUVG_\nv4. Unmoving; inactive: ITEE_\nv5. Briny; profane: SALR_\n\nFilled:\nh1. The genus to which the dog and wolf belong: CANIS\nh2. An Indian mallow: ABUTA\nh3. To feast; to carouse; another name for Reval: REVEL\nh4. A pound sterling: EAGER\n\nChanged:\nv1. Poetic \"cursed\"; peevish: CARED\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 19,
+    "actions": [
+      "h1. elect",
+      "h2. helix",
+      "h3. aping",
+      "v1. chess",
+      "h4. SEDER"
+    ],
+    "final_board": "Current Board:\nCLECT\nHELIX\nEPING\nSEDER\nS____\n\nUnfilled:\nh5. A pound sterling: S____\nv2. British dialect for \"them\": LEPE_\nv3. To avoid capture or detection: ELID_\nv4. One who strains; one who runs heavily: CINE_\nv5. To put into action: TXGR_\n\nFilled:\nh2. A spiral, usually three dimensional: HELIX\nh4. A Passover meal: SEDER\nv1. A board game; a British river: CHESS\n\nChanged:\nh1. To choose: CLECT\nh3. To emulate: EPING\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 2,
+    "actions": [
+      "h1. amigo",
+      "v1. Amish",
+      "h2. major",
+      "h3. input",
+      "h4. siege"
+    ],
+    "final_board": "Current Board:\nAMIGO\nMAJOR\nINPUT\nSIEGE\nH____\n\nUnfilled:\nh5. More healthy; a coin: H____\nv2. A craze: MANI_\nv3. To force; to drive: IJPE_\nv4. To dig out roughly: GOUG_\nv5. On the outside: ORTE_\n\nFilled:\nh1. A male friend: AMIGO\nh2. Something big and important: MAJOR\nh3. Things that enter; data given to a computer program: INPUT\nh4. To besiege: SIEGE\nv1. A Mennonite sect, named for Jacob Ammann: AMISH\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 20,
+    "actions": [
+      "h4. souse",
+      "h1. elect",
+      "v1. ERASE",
+      "h2. HELIX",
+      "h3. EROSE"
+    ],
+    "final_board": "Current Board:\nELECT\nHELIX\nEROSE\nSOUSE\nE____\n\nUnfilled:\nh5. A pound sterling: E____\nv2. A wading bird: LERO_\nv3. To run away together to get married: ELOU_\nv4. Cider; sicer: CISS_\nv5. To put into action: TXEE_\n\nFilled:\nh1. To choose: ELECT\nh2. A spiral, usually three dimensional: HELIX\nh3. Notched or uneven, as if gnawed away (cognate with \"erode\"): EROSE\nh4. A drinker; a sedative: SOUSE\n\nChanged:\nv1. A board game; a British river: EHESE\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 21,
+    "actions": [
+      "h1. elect",
+      "h2. emdem",
+      "v1. chess",
+      "h3. ERECT",
+      "v2. LMR__ \u2192 \"LMR\" is likely a prefix pattern. A heart = \"LEMON\"? No. Let me think: \"A heart\" 5 letters, pattern LMR__? That doesn't match \"heart\". Wait \u2014 the pattern given is \"LMR__\" meaning first three letters are L, M, R? That seems odd for \"a heart\". Maybe it's a misread \u2014 perhaps the pattern is from crossing letters.  \n\nActually, \"A heart\" could be \"CORER\"? No. 5-letter word for heart: \"ORGAN\"? No. \"PUMP\"? 4 letters. \"TICKER\" is 6.  \n\nGiven v2 pattern LMR__ \u2014 maybe it's \"LEMUR\"? No, that's an animal.  \n\nWait \u2014 maybe the clue is \"A heart\" as in the card suit symbol? That's \"HEART\" itself, but pattern doesn't match.  \n\nLet me reconsider: maybe the given pattern \"LMR__\" is wrong in my reading \u2014 perhaps it's from crossing letters L, M, R in positions 1,2,3? That would make v2 start LMR. What 5-letter word starting LMR means \"a heart\"? None.  \n\nPerhaps it's not LMR but the blanks are from the board: v2 column 2 letters from filled rows: row1 col2 = L (from CLECT), row2 col2 = M (HMDEM), row3 col2 = E (ERECT)? Wait ERECT second letter is R, not E. Let me recheck:  \n\nBoard:  \nRow1: C L E C T  \nRow2: H M D E M  \nRow3: E R E C T  \nRow4: S _ _ _ _  \nRow5: S _ _ _ _  \n\nColumn 2: L, M, R, _, _ \u2192 so v2 pattern is LMR__. Yes.  \n\nSo v2 = LMR??. \"A heart\" \u2014 could be \"LEMUR\"? No. Wait, 5-letter word for heart: \"COR\"? No. \"PUMP\" is 4. \"TICKER\" 6.  \n\nMaybe \"A heart\" as in the center of something? \"CORE\"? 4 letters.  \n\nWhat about \"A heart\" = \"LMR\" doesn't fit any heart word. Maybe the clue is \"A heart\" meaning the organ \u2014 \"L"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 22,
+    "actions": [
+      "h1. elect",
+      "h2. share",
+      "v1. ESHAR",
+      "h3. heady",
+      "h4. manse"
+    ],
+    "final_board": "Current Board:\nELECT\nSHARE\nHEADY\nMANSE\nR____\n\nUnfilled:\nh5. To change: R____\nv2. Pertaining to a hilum: LHEA_\nv3. An occurrence: EAAN_\nv4. To perceive; wisdom; reason; feeling: CRDS_\nv5. To come in: TEYE_\n\nFilled:\nh1. To choose: ELECT\nh2. Rent; split: SHARE\nh3. Odorous; fragrant: HEADY\nh4. The minister's house: MANSE\n\nChanged:\nv1. A quaver: ESHMR\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 23,
+    "actions": [
+      "h1. elect",
+      "h2. noisy",
+      "h3. older",
+      "v3. EIDER",
+      "h4. HONSHU"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 24,
+    "actions": [
+      "h4. wanna",
+      "v1. crowd",
+      "h1. culls",
+      "v2. ULNAE",
+      "h2. RIVAL"
+    ],
+    "final_board": "Current Board:\nCULLS\nRIVAL\nON___\nWANNA\nDE___\n\nUnfilled:\nh3. Odorous; fragrant: ON___\nh5. Prolonged and deep fear: DE___\nv3. To happen: LV_N_\nv4. Dried cassia leaves: LA_N_\nv5. Anatomically toward the inside: SL_A_\n\nFilled:\nh1. To choose: CULLS\nh2. Rent; split: RIVAL\nh4. Slang for \"want to\": WANNA\nv1. A mob; a Welsh violin: CROWD\n\nChanged:\nv2. Pertaining to a hilum, the mark or scar on a seed produced by separation: UINAE\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 25,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "h2. coins",
+      "h3. ULULA",
+      "v2. HELLO"
+    ],
+    "final_board": "Current Board:\nCHECT\nCEINS\nULULA\nSL___\nHO___\n\nUnfilled:\nh4. To slide; to skulk: SL___\nh5. One who uses a hose; a good guy: HO___\nv3. The Islamic name for Satan: EIU__\nv4. To sift: CNL__\nv5. One who eats: TSA__\n\nFilled:\nh3. A European owl: ULULA\nv2. A greeting: HELLO\n\nChanged:\nh1. To choose: CHECT\nh2. A coin: CEINS\nv1. To subdue; to crumple; a hidden romantic attraction: CCUSH\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 26,
+    "actions": [
+      "h1. elect",
+      "v1. crush",
+      "v2. HELLO",
+      "h2. ETAER",
+      "h3. ULULA"
+    ],
+    "final_board": "Current Board:\nCHECT\nETAER\nULULA\nSL___\nHO___\n\nUnfilled:\nh4. To slide; to skulk: SL___\nh5. More healthy; a coin: HO___\nv3. A Babylonian god: EAU__\nv4. To sift: CEL__\nv5. To come in: TRA__\n\nFilled:\nh2. A Japanese outcast: ETAER\nh3. A European owl: ULULA\n\nChanged:\nh1. To choose: CHECT\nv1. To subdue; to crumple; a hidden romantic attraction: CEUSH\nv2. A greeting: HTLLO\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 27,
+    "actions": [
+      "h2. redox",
+      "v1. croud",
+      "v2. EXALT",
+      "v5. EXALT",
+      "h1. ELECT"
+    ],
+    "final_board": "Current Board:\nELECT\nRXDOX\nOA__A\nUL__L\nDT__T\n\nUnfilled:\nh3. An Indian mallow: OA__A\nh4. The blue titmouse: UL__L\nh5. A center; a body organ: DT__T\nv3. Excessive fluid accumulation: ED___\nv4. An underwater detection system (Sound Navigation Ranging): CO___\n\nFilled:\nh1. To choose: ELECT\n\nChanged:\nh2. An oxidation/reduction reaction: RXDOX\nv1. A crwth: EROUD\nv2. To praise; to worship: LXALT\nv5. To praise; to raise higher: TXALT\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 28,
+    "actions": [
+      "h1. clasp",
+      "v1. cloak",
+      "v2. liana",
+      "h2. limer",
+      "h3. OMBRE"
+    ],
+    "final_board": "Current Board:\nCLASP\nLIMER\nOMBRE\nAN___\nKA___\n\nUnfilled:\nh4. To wane or decrease: AN___\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KA___\nv3. To exclude: AMB__\nv4. An interjection expressing exasperation; nonsense: SER__\nv5. To salute: PRE__\n\nFilled:\nh1. To hold onto: CLASP\nh2. One who snares birds with birdlime; a hanger-on: LIMER\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nv1. A loose outer coat; a cover or pretext: CLOAK\n\nChanged:\nv2. An African tree: LIMNA\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 29,
+    "actions": [
+      "h1. clasp",
+      "h2. snare",
+      "h3. ombre",
+      "h4. daunt",
+      "h5. karst"
+    ],
+    "final_board": "Current Board:\nCLASP\nSNARE\nOMBRE\nDAUNT\nKARST\n\nUnfilled:\nv1. A loose outer coat; a cover or pretext: CSODK\nv2. A semitone: LNMAA\nv3. To exclude: AABUR\nv4. An interjection expressing exasperation; nonsense: SRRNS\nv5. To salute: PEETT\n\nFilled:\nh1. To hold onto: CLASP\nh2. One who snares birds with birdlime; a hanger-on: SNARE\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nh4. To subdue; to terrify; a Central American timber tree: DAUNT\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: KARST\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 3,
+    "actions": [
+      "v1. avail",
+      "h1. amigo",
+      "h2. DOUSE",
+      "h3. anion",
+      "v2. MONAD"
+    ],
+    "final_board": "Current Board:\nAMIGO\nDOUSE\nANION\nIA___\nLD___\n\nUnfilled:\nh4. A sugar: IA___\nh5. A solitary person: LD___\nv3. Ancient Troy: IUI__\nv4. A water fowl; a pinch to the rear; tailor's iron: GSO__\nv5. A possesser: OEN__\n\nFilled:\nh1. A male friend: AMIGO\nh2. To baptize: DOUSE\nh3. A negative ion: ANION\nv2. A Zen question and answer method; extreme: MONAD\n\nChanged:\nv1. Benefit; result: ADAIL\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 30,
+    "actions": [
+      "h1. clasp",
+      "v1. croak",
+      "h2. RAKES",
+      "h3. OMBRE",
+      "h4. APPAL"
+    ],
+    "final_board": "Current Board:\nCLASP\nRAKES\nOMBRE\nAPPAL\nK____\n\nUnfilled:\nh5. A limestone region marked by sinks, abrupt ridges, protuberant rocks: K____\nv2. A semitone: LAMP_\nv3. To exclude: AKBP_\nv4. An interjection expressing exasperation; nonsense: SERA_\nv5. To salute: PSEL_\n\nFilled:\nh1. To hold onto: CLASP\nh2. An enlarged tool: RAKES\nh3. Shaded or dyed; a 3 person card game using 40 cards: OMBRE\nh4. To subdue; to terrify; a Central American timber tree: APPAL\nv1. A frog sound; to die: CROAK\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 4,
+    "actions": [
+      "h2. retie",
+      "v2. RESIT",
+      "h1. ARISE",
+      "h3. ISTRI",
+      "h4. TIRER"
+    ],
+    "final_board": "Current Board:\nARISE\nRETIE\nISTRI\nTIRER\n_T___\n\nUnfilled:\nh5. Eternal, everlasting: _T___\nv1. To ascend; to get up; to come up: ARIT_\nv3. To intend; to plan; to devise; a nettle; to guess: ITTR_\nv4. An igniter; a shooter: SIRE_\nv5. To crave: EEIR_\n\nFilled:\nh1. To dry up: ARISE\nh2. To tie again: RETIE\nh3. The Istrian peninsula: ISTRI\nh4. One who strains; one who runs heavily: TIRER\nv2. To sit again: RESIT\n\nChanged:\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 5,
+    "actions": [
+      "h1. seeps",
+      "h2. outdo",
+      "v1. SOAR?"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 6,
+    "actions": [
+      "h1. drain",
+      "h2. value",
+      "h3. anaconda"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 7,
+    "actions": [
+      "h2. shell",
+      "h1. avoid",
+      "h3. ELECAMPANE is not 5 letters. The elecampane plant genus is INULA (5 letters), an herb. So:\n\nh3. inula"
+    ],
+    "final_board": null
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 8,
+    "actions": [
+      "h1. evade",
+      "v1. EXCEL",
+      "h2. waxer",
+      "h3. float",
+      "h4. GUAVA"
+    ],
+    "final_board": "Current Board:\nEVADE\nWAXER\nFLOAT\nGUAVA\nL____\n\nUnfilled:\nh5. To become late; to cause to become late: L____\nv2. An anatomical valve: VALU_\nv3. A bishop's permission for a priest to leave a diocese: AXOA_\nv4. A cigarette: DEAV_\nv5. Wooden; wooden dishes and utensils: ERTA_\n\nFilled:\nh1. To avoid; to turn away: EVADE\nh2. One who waxes: WAXER\nh3. To float; to swim: FLOAT\nh4. Grape jam: GUAVA\n\nChanged:\nv1. Terrible; very: EWFGL\n"
+  },
+  {
+    "repeat": 3,
+    "steps": 5,
+    "puzzle": 9,
+    "actions": [
+      "h1. avant",
+      "h2. aping",
+      "h3. creep",
+      "v1. clasp",
+      "h4. novel"
+    ],
+    "final_board": "Current Board:\nCVANT\nLPING\nAREEP\nNOVEL\nP____\n\nUnfilled:\nh5. A talkative, gossipy person: P____\nv2. To move: VPRO_\nv3. A violent Central Asian blizzard: AIEV_\nv4. Odorous; fragrant: NNEE_\nv5. A light Greek shield; an apothecium: TGPL_\n\nFilled:\nh4. Culturally or stylistically new: NOVEL\n\nChanged:\nh1. (yet more) dissonant jazz, with solo improvisations and complex rhythms: CVANT\nh2. To emulate: LPING\nh3. A worthless person: AREEP\nv1. To fasten; to hold: CLANP\n"
+  }
+]

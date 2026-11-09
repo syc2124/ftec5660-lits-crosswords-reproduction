@@ -518,3 +518,15 @@ This experiment targets the Crosswords Chain row in the [LiTS paper](https://acl
 The full run uses puzzle indices 1–30 (zero-based) from mini0505.json. Index 0 was reserved for the pilot. The paper identifies 30 puzzles but does not enumerate their IDs. The baseline cap of 10 is a local choice because the paper specifies a depth for search but does not identify the Chain cap. The intervention uses a cap of 5. Both conditions run three times on the same puzzles, alternating condition order. Report API usage as tokens and calls. The upstream dollar estimate is not used for DeepSeek billing.
 
 Experiment outputs are reused only when the evaluator has written a summary. Use a fresh checkout or move the prior run directories before changing Count or rerunning the entire study.
+After all six full runs finish, run `python summarize-crosswords.py` to validate the puzzle IDs and regenerate `reproduction-evidence/`. Rates in the CSV and JSON are proportions. API seconds sum request durations. The sanitized action traces and terminal boards are derived from the saved upstream checkpoints. To resume an interrupted batch, run the same PowerShell command with the same options. The runner reads the last started puzzle from the run log and the agent resumes that puzzle from its saved board.
+
+The saved Chain configuration reports a generic temperature field of 0.0. The environment-grounded branch invokes the Chain factory without passing this field, so action sampling starts at the factory's 0.8 default and uses the upstream retry policy. See `lits/cli/chain.py` and `lits/agents/main.py`.
+
+### Measured results
+
+| Action cap | Exact match | Mean clue accuracy | Mean API calls |
+|---|---:|---:|---:|
+| 10 | 1.11% | 21.11% | 313 |
+| 5 | 0.00% | 14.22% | 175 |
+
+See [per-run measurements](reproduction-evidence/runs.csv), [puzzle scores](reproduction-evidence/puzzles.csv), [action traces](reproduction-evidence/trajectories.json), and [means and variances](reproduction-evidence/summary.json).
